@@ -1,0 +1,370 @@
+{
+  "source": {
+    "file": "9789000331697.epub",
+    "title": "Grammatica Spaans: De regels van het Spaans",
+    "author": "E. Slager",
+    "publisher": "Prisma",
+    "isbn": "9789000331697",
+    "copyright": "2010 Uitgeverij Unieboek | Het Spectrum bv",
+    "note": "Korte uitleg in eigen woorden, gebaseerd op het lokaal aangeleverde boek; geen letterlijke definities."
+  },
+  "forms": {
+    "indicative.present": {
+      "bookTerm": "presente de indicativo",
+      "references": [
+        187,
+        269,
+        270
+      ],
+      "paragraphs": [
+        "Gebruik deze tijd voor wat nu gebeurt, een huidige toestand of een gewoonte. De Nederlandse onvoltooid tegenwoordige tijd is meestal een goede vergelijking.",
+        "De presente kan ook naar de nabije toekomst verwijzen. In deze oefeningen gaat het om de expliciet gevraagde vorm; een tijdwoord alleen bepaalt niet welke tijd mogelijk is."
+      ],
+      "evidence": "book"
+    },
+    "indicative.preterite": {
+      "bookTerm": "pretérito indefinido",
+      "references": [
+        189,
+        272,
+        273,
+        274,
+        275,
+        278
+      ],
+      "paragraphs": [
+        "Je presenteert een gebeurtenis in het verleden als een geheel, of vertelt wat er achtereenvolgens gebeurde. Buiten een verhaal past deze tijd vaak bij een afgesloten tijdvak, zoals gisteren of vorig jaar.",
+        "Het gaat niet om hoe kort of lang iets duurde. In het Nederlands kan de vertaling zowel “deed” als “heeft gedaan” zijn. Pretérito perfecto simple is een andere naam voor deze tijd."
+      ],
+      "evidence": "book"
+    },
+    "indicative.imperfect": {
+      "bookTerm": "pretérito imperfecto",
+      "references": [
+        188,
+        273,
+        274,
+        275,
+        276
+      ],
+      "paragraphs": [
+        "Gebruik de imperfecto voor de achtergrond bij een gebeurtenis in het verleden: een toestand, wat toen gaande was of wat iemand geregeld deed. Je beschrijft de situatie zonder begin of einde centraal te stellen.",
+        "Het onderscheid met de indefinido is dus niet “lang tegenover kort”. Beide kunnen in het Nederlands als een onvoltooid verleden tijd worden vertaald."
+      ],
+      "evidence": "book"
+    },
+    "indicative.present_perfect": {
+      "bookTerm": "pretérito perfecto",
+      "references": [
+        197,
+        200,
+        272,
+        274,
+        275
+      ],
+      "paragraphs": [
+        "Deze tijd bestaat uit de presente van haber en een voltooid deelwoord. Je kijkt vanuit het heden terug op wat is gebeurd: bijvoorbeeld binnen vandaag of deze week, of omdat het resultaat nu relevant is.",
+        "Dit is het gebruik dat deze app voor Spaans uit Spanje oefent. In andere regio’s staat hier vaak een indefinido. De Nederlandse voltooid tegenwoordige tijd is geen automatische regel voor de Spaanse tijdkeuze."
+      ],
+      "evidence": "book"
+    },
+    "indicative.future": {
+      "bookTerm": "futuro de indicativo",
+      "references": [
+        190,
+        284,
+        285,
+        286,
+        287,
+        289,
+        290
+      ],
+      "paragraphs": [
+        "De futuro simple kan een voorspelling, verwachting of belofte uitdrukken. Bij een regelmatig werkwoord staat de uitgang achter de hele infinitief. In deze oefeningen gaat het om een toekomstige gebeurtenis.",
+        "Deze tijd kan ook een vermoeden over het heden uitdrukken. Niet iedere toekomstige gebeurtenis vraagt om een futuro: de presente en ir a + infinitief zijn andere mogelijkheden."
+      ],
+      "evidence": "book"
+    },
+    "indicative.pluperfect": {
+      "bookTerm": "pluscuamperfecto",
+      "references": [
+        197,
+        200,
+        279
+      ],
+      "paragraphs": [
+        "Deze tijd combineert de imperfecto van haber met een voltooid deelwoord. Je beschrijft wat al gebeurd was vóór een ander moment in het verleden.",
+        "De Nederlandse voltooid verleden tijd (“had gedaan”) past meestal als vertaling. De keuze hangt wel af van de samenhang tussen de gebeurtenissen."
+      ],
+      "evidence": "book"
+    },
+    "indicative.future_perfect": {
+      "bookTerm": "futuro perfecto",
+      "references": [
+        197,
+        200,
+        291
+      ],
+      "paragraphs": [
+        "Met de futuro van haber en een voltooid deelwoord beschrijf je wat op een toekomstig moment voltooid zal zijn. De vorm kan ook een vermoeden uitdrukken over iets dat al gebeurd is.",
+        "De Nederlandse vorm “zal hebben gedaan” helpt de opbouw te herkennen; de context bepaalt of het om toekomst of een vermoeden gaat."
+      ],
+      "evidence": "synthesis"
+    },
+    "indicative.conditional": {
+      "bookTerm": "condicional",
+      "references": [
+        191,
+        267,
+        290,
+        291,
+        294,
+        315
+      ],
+      "paragraphs": [
+        "De condicional is de verleden toekomende tijd, vaak vertaald met “zou”. Hij kan de toekomst vanuit een verleden moment beschrijven, of het gevolg van een denkbeeldige voorwaarde.",
+        "Ook een vermoeden over het verleden is mogelijk. Gebruik deze vorm niet automatisch voor ieder Nederlands “zou”: bij onzekerheid over het heden gebruikt het Spaans vaak de futuro."
+      ],
+      "evidence": "book"
+    },
+    "indicative.conditional_perfect": {
+      "bookTerm": "condicional perfecto",
+      "references": [
+        197,
+        200,
+        315
+      ],
+      "paragraphs": [
+        "Deze vorm bestaat uit de condicional van haber en een voltooid deelwoord. Hij past bijvoorbeeld bij wat onder een andere voorwaarde gebeurd zou zijn.",
+        "De Nederlandse hulpvorm is “zou hebben gedaan” of, afhankelijk van het werkwoord, “zou zijn gegaan”. In het Spaans blijft het hulpwerkwoord haber."
+      ],
+      "evidence": "book"
+    },
+    "indicative.preterite_anterior": {
+      "bookTerm": "pretérito anterior",
+      "references": [
+        197,
+        200,
+        277
+      ],
+      "paragraphs": [
+        "Dit is een zeldzame, formele samengestelde verleden tijd: de indefinido van haber met een voltooid deelwoord. Hij beschrijft iets dat voltooid was direct vóór een volgende gebeurtenis in het verleden.",
+        "Het boek bespreekt dat modern Spaans hier meestal een gewone indefinido gebruikt. Deze vorm staat daarom niet in de standaard-oefenset."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.present": {
+      "bookTerm": "presente de subjuntivo",
+      "references": [
+        192,
+        266,
+        295,
+        304,
+        317
+      ],
+      "paragraphs": [
+        "De presente de subjuntivo komt voor in bepaalde zinsconstructies, bijvoorbeeld na een wens of in een doelzin met para que. Hij kan daarbij naar het heden én de toekomst verwijzen.",
+        "De aanvoegende wijs betekent niet simpelweg “onzekerheid”. De zinsbouw en de bedoeling bepalen of je subjuntivo of indicativo nodig hebt."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.imperfect": {
+      "bookTerm": "imperfecto de subjuntivo",
+      "references": [
+        194,
+        266,
+        267,
+        280,
+        295,
+        315
+      ],
+      "paragraphs": [
+        "Dit is een verleden vorm van de aanvoegende wijs. Hij past onder meer bij bepaalde bijzinnen in een verleden verhaal en bij denkbeeldige voorwaarden.",
+        "De varianten op -ra en -se zijn in de meeste subjuntivo-contexten uitwisselbaar. Bij bijzonder gebruik, bijvoorbeeld als een -ra-vorm in geschreven taal de functie van een indicativo heeft, geldt die uitwisselbaarheid niet zonder meer."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.present_perfect": {
+      "bookTerm": "pretérito perfecto de subjuntivo",
+      "references": [
+        197,
+        200,
+        266,
+        295
+      ],
+      "paragraphs": [
+        "De presente de subjuntivo van haber met een voltooid deelwoord vormt deze tijd. De zin vraagt om de aanvoegende wijs en kijkt terug op een voorafgaande, voltooide gebeurtenis.",
+        "De Nederlandse vertaling heeft vaak “heeft gedaan”. Het Nederlandse tijdlabel vertelt op zichzelf niet of het Spaans een subjuntivo vereist."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.pluperfect": {
+      "bookTerm": "pluscuamperfecto de subjuntivo",
+      "references": [
+        197,
+        200,
+        266,
+        315
+      ],
+      "paragraphs": [
+        "Deze tijd gebruikt hubiera of hubiese met een voltooid deelwoord. Hij komt onder meer voor bij iets dat al gebeurd was en bij een onvervulde voorwaarde in het verleden.",
+        "De hubiera- en hubiese-reeks zijn in zulke subjuntivo-contexten doorgaans beide mogelijk. In het Nederlands past vaak “had gedaan”; bij een onvervulde voorwaarde is vooral het verband met de hoofdzin belangrijk."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.future": {
+      "bookTerm": "futuro de subjuntivo",
+      "references": [
+        194,
+        266
+      ],
+      "paragraphs": [
+        "Dit is de zeldzame toekomende tijd van de aanvoegende wijs. Het boek noemt vooral vaste uitdrukkingen en juridische teksten als overgebleven gebruiksgebieden.",
+        "In gewoon modern Spaans kan de presente de subjuntivo al naar de toekomst verwijzen. Deze historische vorm is daarom geen standaard-oefentijd."
+      ],
+      "evidence": "book"
+    },
+    "subjunctive.future_perfect": {
+      "bookTerm": null,
+      "references": [
+        194,
+        200,
+        266
+      ],
+      "paragraphs": [
+        "Dit is de samengestelde vorm bij de zeldzame futuro de subjuntivo: de futuro de subjuntivo van haber met een voltooid deelwoord. Hij heeft betrekking op een voorafgaande, voltooide gebeurtenis.",
+        "Het boek geeft hiervoor geen afzonderlijke definitie. Deze toelichting combineert de algemene uitleg over samengestelde tijden met die over de futuro de subjuntivo; de vorm is niet actief in de standaard-oefenset."
+      ],
+      "evidence": "synthesis"
+    },
+    "imperative.affirmative": {
+      "bookTerm": "imperativo: bevestigend",
+      "references": [
+        193,
+        204,
+        322,
+        323,
+        324
+      ],
+      "paragraphs": [
+        "Gebruik deze vorm voor een opdracht, verzoek of aansporing. De aanspreekvorm bepaalt de vervoeging; tú, usted en vosotros zijn dus niet verwisselbaar.",
+        "Bij een bevestigende opdracht worden zwakke voornaamwoorden aan het werkwoord vastgeschreven. Daardoor kunnen een uitgang en de geschreven klemtoon veranderen. Let dus ook op de plaats van het voornaamwoord en op accenttekens."
+      ],
+      "evidence": "book"
+    },
+    "imperative.negative": {
+      "bookTerm": "imperativo: ontkennend",
+      "references": [
+        193,
+        204,
+        323
+      ],
+      "paragraphs": [
+        "Een verbod of ontkennende aansporing gebruikt no met een vorm van de presente de subjuntivo. Zet dus niet zomaar no vóór een bevestigende imperatief.",
+        "Zwakke voornaamwoorden staan vóór het werkwoord, na no. In deze app hoort bij een negatieve imperatief de volledige opgeslagen woordgroep, inclusief no, in het antwoord."
+      ],
+      "evidence": "book"
+    },
+    "nonfinite.infinitive": {
+      "bookTerm": "infinitivo",
+      "references": [
+        183,
+        395
+      ],
+      "paragraphs": [
+        "De infinitief is het hele werkwoord, zonder een persoonsuitgang voor ik, jij of hij. Spaanse infinitieven eindigen op -ar, -er of -ir; bij een reflexief werkwoord staat se erachter.",
+        "Een infinitief kan onder meer bij een ander werkwoord of na een voorzetsel staan. Deze oefenvorm heeft zelf geen persoonslot."
+      ],
+      "evidence": "book"
+    },
+    "nonfinite.gerund": {
+      "bookTerm": "gerundio",
+      "references": [
+        184,
+        201,
+        377,
+        379
+      ],
+      "paragraphs": [
+        "De gerundio is een onveranderlijke werkwoordvorm, meestal op -ando of -iendo. Met estar kan hij een activiteit beschrijven die gaande is; hij kan ook een bijwoordelijke functie hebben.",
+        "Hij is niet zonder meer gelijk aan het Nederlandse tegenwoordig deelwoord of de Engelse gerund. Een reflexief voornaamwoord kan aan deze vorm worden vastgeschreven."
+      ],
+      "evidence": "book"
+    },
+    "nonfinite.participle": {
+      "bookTerm": "participio pasado",
+      "references": [
+        186,
+        200,
+        388,
+        390
+      ],
+      "paragraphs": [
+        "Het voltooid deelwoord staat onder meer na haber om samengestelde tijden te vormen. Met haber verandert het niet mee met persoon, geslacht of getal.",
+        "Bij bijvoeglijk gebruik kan het juist wel naar geslacht en getal veranderen. De losse vorm in deze app is de opgeslagen basisvorm, geen automatisch verbogen bijvoeglijk naamwoord."
+      ],
+      "evidence": "book"
+    },
+    "nonfinite.compound_infinitive": {
+      "bookTerm": "infinitivo perfecto",
+      "references": [
+        200,
+        279
+      ],
+      "paragraphs": [
+        "Deze vorm bestaat uit haber met een voltooid deelwoord. Zo kan een infinitiefconstructie aangeven dat iets al gebeurd is.",
+        "De vorm heeft zelf geen persoon. Niet elk Nederlands “te hebben gedaan” vereist in het Spaans deze samengestelde infinitief; de context is bepalend."
+      ],
+      "evidence": "book"
+    },
+    "nonfinite.compound_gerund": {
+      "bookTerm": "gerundio perfecto",
+      "references": [
+        200,
+        377,
+        379
+      ],
+      "paragraphs": [
+        "Habiendo met een voltooid deelwoord is de samengestelde gerundio. Daarmee kan een bijwoordelijke constructie een voorafgaande, voltooide gebeurtenis aanduiden.",
+        "Deze vorm is onveranderlijk en heeft geen persoonsuitgang. In de zin moet duidelijk zijn op wie de handeling betrekking heeft."
+      ],
+      "evidence": "synthesis"
+    },
+    "construction.estar_gerund": {
+      "bookTerm": "estar + gerundio",
+      "references": [
+        201,
+        383
+      ],
+      "paragraphs": [
+        "Deze combinatie stelt een activiteit voor als gaande: “bezig zijn met” of “aan het … zijn”. Estar draagt de persoon en tijd; de gerundio blijft onveranderlijk.",
+        "Bij reflexieve werkwoorden kan het voornaamwoord vóór de vervoegde vorm van estar of vast aan de gerundio staan. De plaatsing bepaalt welke woorden je samen schrijft."
+      ],
+      "evidence": "book"
+    },
+    "construction.ir_a_infinitive": {
+      "bookTerm": "ir a + infinitief",
+      "references": [
+        284,
+        286,
+        288,
+        414
+      ],
+      "paragraphs": [
+        "Deze combinatie kan een voornemen of verwachte gebeurtenis uitdrukken: “gaan” of “zullen”. Ir wordt vervoegd; daarna volgen a en de infinitief.",
+        "Deze omschrijving en de futuro zijn niet in iedere situatie uitwisselbaar. Ir a is vaak natuurlijk bij een al genomen besluit of een ontwikkeling die zich al aankondigt."
+      ],
+      "evidence": "book"
+    },
+    "construction.acabar_de_infinitive": {
+      "bookTerm": "acabar de + infinitief",
+      "references": [
+        414
+      ],
+      "paragraphs": [
+        "In de hier bedoelde aspectuele betekenis geeft acabar de + infinitief aan dat iets net is gebeurd: “zojuist iets gedaan hebben”. Acabar draagt de persoon en tijd."
+      ],
+      "evidence": "book"
+    }
+  }
+}

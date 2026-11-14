@@ -1,0 +1,286 @@
+{
+  "ser": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "estar": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "ir": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "tener": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "hacer": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "decir": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "poder": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "querer": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "venir": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "poner": {
+    "isIrregularVerb": true,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "hablar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "comer": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "vivir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "trabajar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "estudiar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "levantarse": {
+    "isIrregularVerb": false,
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+  },
+  "comprar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "cocinar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "escuchar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "mirar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "caminar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "viajar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "visitar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "ayudar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "limpiar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "lavar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "preparar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "desayunar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "cenar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "bailar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "nadar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "pintar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "preguntar": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "aprender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "barrer": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "beber": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "comprender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "correr": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "coser": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "deber": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "depender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "esconder": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "meter": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "ofender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "prometer": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "responder": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "sorprender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "suceder": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "temer": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "toser": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "vender": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "atreverse": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "recibir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "compartir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "subir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "decidir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "permitir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "cumplir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "asistir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "admitir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "añadir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "consumir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "unir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "sufrir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "insistir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "sacudir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "aplaudir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "batir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "combatir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "sobrevivir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  },
+  "exhibir": {
+    "isIrregularVerb": false,
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  }
+}

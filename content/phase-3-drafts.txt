@@ -1,0 +1,421 @@
+# Vijf expliciete ES|NL-paren per vast werkwoord: presente, indefinido, imperfecto, perfecto compuesto, futuro.
+# AI-opgestelde inhoud; reviewmetadata en menselijke controle staan afzonderlijk vastgelegd.
+hablar;1s;A1;statement
+Yo {{answer}} español con mi vecina.|Ik spreek Spaans met mijn buurvrouw.
+Ayer yo {{answer}} español con mi vecina.|Gisteren sprak ik Spaans met mijn buurvrouw.
+Antes yo {{answer}} español con mi vecina cada tarde.|Vroeger sprak ik elke middag Spaans met mijn buurvrouw.
+Hoy yo {{answer}} español con mi vecina.|Vandaag heb ik Spaans gesproken met mijn buurvrouw.
+Mañana yo {{answer}} español con mi vecina.|Morgen zal ik Spaans spreken met mijn buurvrouw.
+
+trabajar;2s;A1;question
+¿Tú {{answer}} en la biblioteca?|Werk jij in de bibliotheek?
+¿Ayer tú {{answer}} en la biblioteca?|Werkte jij gisteren in de bibliotheek?
+¿Antes tú {{answer}} en la biblioteca?|Werkte jij vroeger in de bibliotheek?
+¿Hoy tú {{answer}} en la biblioteca?|Heb jij vandaag in de bibliotheek gewerkt?
+¿Mañana tú {{answer}} en la biblioteca?|Zul jij morgen in de bibliotheek werken?
+
+estudiar;3s;A1;statement
+Lucía {{answer}} medicina en Valencia.|Lucía studeert geneeskunde in Valencia.
+El año pasado Lucía {{answer}} medicina en Valencia.|Vorig jaar studeerde Lucía geneeskunde in Valencia.
+En aquella época Lucía {{answer}} medicina en Valencia.|In die tijd studeerde Lucía geneeskunde in Valencia.
+Este año Lucía {{answer}} medicina en Valencia.|Dit jaar heeft Lucía geneeskunde gestudeerd in Valencia.
+El próximo año Lucía {{answer}} medicina en Valencia.|Volgend jaar zal Lucía geneeskunde studeren in Valencia.
+
+comprar;1p;A1;negative
+Nosotros no {{answer}} bebidas azucaradas.|Wij kopen geen suikerhoudende dranken.
+Ayer nosotros no {{answer}} bebidas azucaradas.|Gisteren kochten wij geen suikerhoudende dranken.
+Antes nosotros no {{answer}} bebidas azucaradas.|Vroeger kochten wij geen suikerhoudende dranken.
+Esta semana nosotros no {{answer}} bebidas azucaradas.|Deze week hebben wij geen suikerhoudende dranken gekocht.
+La próxima semana nosotros no {{answer}} bebidas azucaradas.|Volgende week zullen wij geen suikerhoudende dranken kopen.
+
+cocinar;2p;A1;statement
+Vosotros {{answer}} sopa para la familia.|Jullie koken soep voor de familie.
+Anoche vosotros {{answer}} sopa para la familia.|Gisteravond kookten jullie soep voor de familie.
+Antes vosotros {{answer}} sopa para la familia los domingos.|Vroeger kookten jullie op zondag soep voor de familie.
+Hoy vosotros {{answer}} sopa para la familia.|Vandaag hebben jullie soep gekookt voor de familie.
+Esta noche vosotros {{answer}} sopa para la familia.|Vanavond zullen jullie soep koken voor de familie.
+
+escuchar;3p;A1;statement
+Los niños {{answer}} un cuento antes de dormir.|De kinderen luisteren naar een verhaal voor het slapengaan.
+Anoche los niños {{answer}} un cuento antes de dormir.|Gisteravond luisterden de kinderen naar een verhaal voor het slapengaan.
+Antes los niños {{answer}} un cuento antes de dormir.|Vroeger luisterden de kinderen naar een verhaal voor het slapengaan.
+Esta semana los niños {{answer}} un cuento antes de dormir.|Deze week hebben de kinderen voor het slapengaan naar een verhaal geluisterd.
+Esta noche los niños {{answer}} un cuento antes de dormir.|Vanavond zullen de kinderen naar een verhaal luisteren voor het slapengaan.
+
+mirar;1s;A1;negative
+Yo no {{answer}} el móvil durante la cena.|Ik kijk tijdens het avondeten niet op mijn telefoon.
+Anoche yo no {{answer}} el móvil durante la cena.|Gisteravond keek ik tijdens het avondeten niet op mijn telefoon.
+Antes yo no {{answer}} el móvil durante la cena.|Vroeger keek ik tijdens het avondeten niet op mijn telefoon.
+Hoy yo no {{answer}} el móvil durante la cena.|Vandaag heb ik tijdens het avondeten niet op mijn telefoon gekeken.
+Esta noche yo no {{answer}} el móvil durante la cena.|Vanavond zal ik tijdens het avondeten niet op mijn telefoon kijken.
+
+caminar;2s;A1;statement
+Tú {{answer}} por el parque después de comer.|Jij wandelt na het eten door het park.
+Ayer tú {{answer}} por el parque después de comer.|Gisteren wandelde jij na het eten door het park.
+Antes tú {{answer}} por el parque después de comer.|Vroeger wandelde jij na het eten door het park.
+Hoy tú {{answer}} por el parque después de comer.|Vandaag heb jij na het eten door het park gewandeld.
+Mañana tú {{answer}} por el parque después de comer.|Morgen zul jij na het eten door het park wandelen.
+
+viajar;3s;A1;question
+¿Pablo {{answer}} a Sevilla en tren?|Reist Pablo met de trein naar Sevilla?
+¿El mes pasado Pablo {{answer}} a Sevilla en tren?|Reisde Pablo vorige maand met de trein naar Sevilla?
+¿Antes Pablo {{answer}} a Sevilla en tren?|Reisde Pablo vroeger met de trein naar Sevilla?
+¿Este mes Pablo {{answer}} a Sevilla en tren?|Is Pablo deze maand met de trein naar Sevilla gereisd?
+¿El próximo mes Pablo {{answer}} a Sevilla en tren?|Zal Pablo volgende maand met de trein naar Sevilla reizen?
+
+visitar;1p;A1;statement
+Nosotros {{answer}} a nuestros abuelos los domingos.|Wij bezoeken onze grootouders op zondag.
+El domingo pasado nosotros {{answer}} a nuestros abuelos.|Afgelopen zondag bezochten wij onze grootouders.
+Antes nosotros {{answer}} a nuestros abuelos los domingos.|Vroeger bezochten wij onze grootouders op zondag.
+Este mes nosotros {{answer}} a nuestros abuelos.|Deze maand hebben wij onze grootouders bezocht.
+El próximo domingo nosotros {{answer}} a nuestros abuelos.|Komende zondag zullen wij onze grootouders bezoeken.
+
+ayudar;2p;A1;question
+¿Vosotros {{answer}} a los vecinos con las bolsas?|Helpen jullie de buren met de tassen?
+¿Ayer vosotros {{answer}} a los vecinos con las bolsas?|Hielpen jullie gisteren de buren met de tassen?
+¿Antes vosotros {{answer}} a los vecinos con las bolsas?|Hielpen jullie vroeger de buren met de tassen?
+¿Hoy vosotros {{answer}} a los vecinos con las bolsas?|Hebben jullie vandaag de buren met de tassen geholpen?
+¿Mañana vosotros {{answer}} a los vecinos con las bolsas?|Zullen jullie morgen de buren met de tassen helpen?
+
+limpiar;3p;A1;statement
+Ana y Luis {{answer}} la cocina después de cenar.|Ana en Luis maken de keuken schoon na het avondeten.
+Anoche Ana y Luis {{answer}} la cocina después de cenar.|Gisteravond maakten Ana en Luis de keuken schoon na het avondeten.
+Antes Ana y Luis {{answer}} la cocina después de cenar.|Vroeger maakten Ana en Luis de keuken schoon na het avondeten.
+Esta semana Ana y Luis {{answer}} la cocina después de cenar.|Deze week hebben Ana en Luis de keuken schoongemaakt na het avondeten.
+Esta noche Ana y Luis {{answer}} la cocina después de cenar.|Vanavond zullen Ana en Luis de keuken schoonmaken na het avondeten.
+
+lavar;1s;A1;statement
+Yo {{answer}} la ropa a mano.|Ik was de kleren met de hand.
+Ayer yo {{answer}} la ropa a mano.|Gisteren waste ik de kleren met de hand.
+Antes yo {{answer}} la ropa a mano.|Vroeger waste ik de kleren met de hand.
+Hoy yo {{answer}} la ropa a mano.|Vandaag heb ik de kleren met de hand gewassen.
+Mañana yo {{answer}} la ropa a mano.|Morgen zal ik de kleren met de hand wassen.
+
+preparar;2s;A1;statement
+Tú {{answer}} la mochila antes de salir.|Jij maakt de rugzak klaar voordat je vertrekt.
+Ayer tú {{answer}} la mochila antes de salir.|Gisteren maakte jij de rugzak klaar voordat je vertrok.
+Antes tú {{answer}} la mochila antes de salir.|Vroeger maakte jij de rugzak klaar voordat je vertrok.
+Hoy tú {{answer}} la mochila antes de salir.|Vandaag heb jij de rugzak klaargemaakt voordat je vertrok.
+Mañana tú {{answer}} la mochila antes de salir.|Morgen zul jij de rugzak klaarmaken voordat je vertrekt.
+
+desayunar;3s;A1;negative
+Marta no {{answer}} en la oficina.|Marta ontbijt niet op kantoor.
+Ayer Marta no {{answer}} en la oficina.|Gisteren ontbeet Marta niet op kantoor.
+Antes Marta no {{answer}} en la oficina.|Vroeger ontbeet Marta niet op kantoor.
+Hoy Marta no {{answer}} en la oficina.|Vandaag heeft Marta niet op kantoor ontbeten.
+Mañana Marta no {{answer}} en la oficina.|Morgen zal Marta niet op kantoor ontbijten.
+
+cenar;1p;A1;question
+¿Nosotros {{answer}} juntos en casa?|Eten wij samen thuis het avondeten?
+¿Anoche nosotros {{answer}} juntos en casa?|Aten wij gisteravond samen thuis het avondeten?
+¿Antes nosotros {{answer}} juntos en casa?|Aten wij vroeger samen thuis het avondeten?
+¿Esta semana nosotros {{answer}} juntos en casa?|Hebben wij deze week samen thuis het avondeten gegeten?
+¿Esta noche nosotros {{answer}} juntos en casa?|Zullen wij vanavond samen thuis het avondeten eten?
+
+bailar;2p;A1;statement
+Vosotros {{answer}} salsa en la escuela de baile.|Jullie dansen salsa op de dansschool.
+Ayer vosotros {{answer}} salsa en la escuela de baile.|Gisteren dansten jullie salsa op de dansschool.
+Antes vosotros {{answer}} salsa en la escuela de baile.|Vroeger dansten jullie salsa op de dansschool.
+Hoy vosotros {{answer}} salsa en la escuela de baile.|Vandaag hebben jullie salsa gedanst op de dansschool.
+Mañana vosotros {{answer}} salsa en la escuela de baile.|Morgen zullen jullie salsa dansen op de dansschool.
+
+nadar;3p;A1;statement
+Mis amigos {{answer}} en la piscina municipal.|Mijn vrienden zwemmen in het gemeentelijke zwembad.
+Ayer mis amigos {{answer}} en la piscina municipal.|Gisteren zwommen mijn vrienden in het gemeentelijke zwembad.
+Antes mis amigos {{answer}} en la piscina municipal.|Vroeger zwommen mijn vrienden in het gemeentelijke zwembad.
+Hoy mis amigos {{answer}} en la piscina municipal.|Vandaag hebben mijn vrienden in het gemeentelijke zwembad gezwommen.
+Mañana mis amigos {{answer}} en la piscina municipal.|Morgen zullen mijn vrienden in het gemeentelijke zwembad zwemmen.
+
+pintar;1s;A2;statement
+Yo {{answer}} paisajes con acuarelas.|Ik schilder landschappen met waterverf.
+El verano pasado yo {{answer}} paisajes con acuarelas.|Afgelopen zomer schilderde ik landschappen met waterverf.
+Antes yo {{answer}} paisajes con acuarelas.|Vroeger schilderde ik landschappen met waterverf.
+Este verano yo {{answer}} paisajes con acuarelas.|Deze zomer heb ik landschappen met waterverf geschilderd.
+El próximo verano yo {{answer}} paisajes con acuarelas.|Volgende zomer zal ik landschappen met waterverf schilderen.
+
+preguntar;2s;A1;question
+¿Tú {{answer}} la hora al conductor?|Vraag jij aan de chauffeur hoe laat het is?
+¿Ayer tú {{answer}} la hora al conductor?|Vroeg jij gisteren aan de chauffeur hoe laat het was?
+¿Antes tú {{answer}} la hora al conductor?|Vroeg jij vroeger aan de chauffeur hoe laat het was?
+¿Hoy tú {{answer}} la hora al conductor?|Heb jij vandaag aan de chauffeur gevraagd hoe laat het was?
+¿Mañana tú {{answer}} la hora al conductor?|Zul jij morgen aan de chauffeur vragen hoe laat het is?
+
+aprender;3s;A1;statement
+Sofía {{answer}} palabras nuevas con tarjetas.|Sofía leert nieuwe woorden met kaartjes.
+Ayer Sofía {{answer}} palabras nuevas con tarjetas.|Gisteren leerde Sofía nieuwe woorden met kaartjes.
+Antes Sofía {{answer}} palabras nuevas con tarjetas.|Vroeger leerde Sofía nieuwe woorden met kaartjes.
+Hoy Sofía {{answer}} palabras nuevas con tarjetas.|Vandaag heeft Sofía nieuwe woorden geleerd met kaartjes.
+Mañana Sofía {{answer}} palabras nuevas con tarjetas.|Morgen zal Sofía nieuwe woorden leren met kaartjes.
+
+barrer;1p;A2;statement
+Nosotros {{answer}} el patio después de la fiesta.|Wij vegen de binnenplaats na het feest.
+Ayer nosotros {{answer}} el patio después de la fiesta.|Gisteren veegden wij de binnenplaats na het feest.
+Antes nosotros {{answer}} el patio después de cada fiesta.|Vroeger veegden wij de binnenplaats na elk feest.
+Hoy nosotros {{answer}} el patio después de la fiesta.|Vandaag hebben wij de binnenplaats geveegd na het feest.
+Mañana nosotros {{answer}} el patio después de la fiesta.|Morgen zullen wij de binnenplaats vegen na het feest.
+
+beber;2p;A1;negative
+Vosotros no {{answer}} café por la noche.|Jullie drinken 's avonds geen koffie.
+Anoche vosotros no {{answer}} café.|Gisteravond dronken jullie geen koffie.
+Antes vosotros no {{answer}} café por la noche.|Vroeger dronken jullie 's avonds geen koffie.
+Esta semana vosotros no {{answer}} café por la noche.|Deze week hebben jullie 's avonds geen koffie gedronken.
+Esta noche vosotros no {{answer}} café.|Vanavond zullen jullie geen koffie drinken.
+
+comer;3p;A1;statement
+Los estudiantes {{answer}} en la cafetería.|De studenten eten in de kantine.
+Ayer los estudiantes {{answer}} en la cafetería.|Gisteren aten de studenten in de kantine.
+Antes los estudiantes {{answer}} en la cafetería.|Vroeger aten de studenten in de kantine.
+Hoy los estudiantes {{answer}} en la cafetería.|Vandaag hebben de studenten in de kantine gegeten.
+Mañana los estudiantes {{answer}} en la cafetería.|Morgen zullen de studenten in de kantine eten.
+
+comprender;1s;A2;statement
+Yo {{answer}} las instrucciones del profesor.|Ik begrijp de instructies van de docent.
+Ayer yo {{answer}} las instrucciones del profesor.|Gisteren begreep ik de instructies van de docent.
+Antes yo {{answer}} las instrucciones del profesor.|Vroeger begreep ik de instructies van de docent.
+Hoy yo {{answer}} las instrucciones del profesor.|Vandaag heb ik de instructies van de docent begrepen.
+Mañana yo {{answer}} las instrucciones del profesor.|Morgen zal ik de instructies van de docent begrijpen.
+
+correr;2s;A1;question
+¿Tú {{answer}} junto al río por la mañana?|Ren jij 's ochtends langs de rivier?
+¿Ayer tú {{answer}} junto al río por la mañana?|Rende jij gisterochtend langs de rivier?
+¿Antes tú {{answer}} junto al río por la mañana?|Rende jij vroeger 's ochtends langs de rivier?
+¿Hoy tú {{answer}} junto al río por la mañana?|Heb jij vanochtend langs de rivier gerend?
+¿Mañana tú {{answer}} junto al río por la mañana?|Zul jij morgenochtend langs de rivier rennen?
+
+coser;3s;A2;statement
+Mi abuela {{answer}} botones en las camisas.|Mijn oma naait knopen aan de overhemden.
+Ayer mi abuela {{answer}} botones en las camisas.|Gisteren naaide mijn oma knopen aan de overhemden.
+Antes mi abuela {{answer}} botones en las camisas.|Vroeger naaide mijn oma knopen aan de overhemden.
+Hoy mi abuela {{answer}} botones en las camisas.|Vandaag heeft mijn oma knopen aan de overhemden genaaid.
+Mañana mi abuela {{answer}} botones en las camisas.|Morgen zal mijn oma knopen aan de overhemden naaien.
+
+deber;1p;A2;negative
+Nosotros no {{answer}} dinero al banco.|Wij zijn de bank geen geld schuldig.
+El año pasado nosotros no {{answer}} dinero al banco en ningún momento.|Vorig jaar waren wij de bank op geen enkel moment geld schuldig.
+Antes nosotros no {{answer}} dinero al banco.|Vroeger waren wij de bank geen geld schuldig.
+Este año nosotros no {{answer}} dinero al banco en ningún momento.|Dit jaar zijn wij de bank op geen enkel moment geld schuldig geweest.
+El próximo año nosotros no {{answer}} dinero al banco.|Volgend jaar zullen wij de bank geen geld schuldig zijn.
+
+depender;2p;B1;statement
+Vosotros {{answer}} del autobús para llegar al trabajo.|Jullie zijn afhankelijk van de bus om op het werk te komen.
+El mes pasado vosotros {{answer}} del autobús para llegar al trabajo.|Vorige maand waren jullie afhankelijk van de bus om op het werk te komen.
+Antes vosotros {{answer}} del autobús para llegar al trabajo.|Vroeger waren jullie afhankelijk van de bus om op het werk te komen.
+Este mes vosotros {{answer}} del autobús para llegar al trabajo.|Deze maand zijn jullie afhankelijk geweest van de bus om op het werk te komen.
+El próximo mes vosotros {{answer}} del autobús para llegar al trabajo.|Volgende maand zullen jullie afhankelijk zijn van de bus om op het werk te komen.
+
+esconder;3p;A2;statement
+Los niños {{answer}} sus juguetes debajo de la cama.|De kinderen verstoppen hun speelgoed onder het bed.
+Ayer los niños {{answer}} sus juguetes debajo de la cama.|Gisteren verstopten de kinderen hun speelgoed onder het bed.
+Antes los niños {{answer}} sus juguetes debajo de la cama.|Vroeger verstopten de kinderen hun speelgoed onder het bed.
+Hoy los niños {{answer}} sus juguetes debajo de la cama.|Vandaag hebben de kinderen hun speelgoed onder het bed verstopt.
+Mañana los niños {{answer}} sus juguetes debajo de la cama.|Morgen zullen de kinderen hun speelgoed onder het bed verstoppen.
+
+meter;1s;A2;statement
+Yo {{answer}} las llaves en el bolsillo de la chaqueta.|Ik stop de sleutels in de zak van de jas.
+Ayer yo {{answer}} las llaves en el bolsillo de la chaqueta.|Gisteren stopte ik de sleutels in de zak van de jas.
+Antes yo {{answer}} las llaves en el bolsillo de la chaqueta.|Vroeger stopte ik de sleutels in de zak van de jas.
+Hoy yo {{answer}} las llaves en el bolsillo de la chaqueta.|Vandaag heb ik de sleutels in de zak van de jas gestopt.
+Mañana yo {{answer}} las llaves en el bolsillo de la chaqueta.|Morgen zal ik de sleutels in de zak van de jas stoppen.
+
+ofender;2s;B1;negative
+Tú no {{answer}} a tus compañeros con tus palabras.|Jij beledigt je collega's niet met je woorden.
+Ayer tú no {{answer}} a tus compañeros con tus palabras.|Gisteren beledigde jij je collega's niet met je woorden.
+Antes tú no {{answer}} a tus compañeros con tus palabras.|Vroeger beledigde jij je collega's niet met je woorden.
+Hoy tú no {{answer}} a tus compañeros con tus palabras.|Vandaag heb jij je collega's niet beledigd met je woorden.
+Mañana tú no {{answer}} a tus compañeros con tus palabras.|Morgen zul jij je collega's niet beledigen met je woorden.
+
+prometer;3s;A2;statement
+El alcalde {{answer}} más zonas verdes.|De burgemeester belooft meer groenvoorzieningen.
+Ayer el alcalde {{answer}} más zonas verdes.|Gisteren beloofde de burgemeester meer groenvoorzieningen.
+Antes el alcalde {{answer}} más zonas verdes.|Vroeger beloofde de burgemeester meer groenvoorzieningen.
+Hoy el alcalde {{answer}} más zonas verdes.|Vandaag heeft de burgemeester meer groenvoorzieningen beloofd.
+Mañana el alcalde {{answer}} más zonas verdes.|Morgen zal de burgemeester meer groenvoorzieningen beloven.
+
+responder;1p;A2;question
+¿Nosotros {{answer}} a todas las preguntas del cliente?|Beantwoorden wij alle vragen van de klant?
+¿Ayer nosotros {{answer}} a todas las preguntas del cliente?|Beantwoordden wij gisteren alle vragen van de klant?
+¿Antes nosotros {{answer}} a todas las preguntas del cliente?|Beantwoordden wij vroeger alle vragen van de klant?
+¿Hoy nosotros {{answer}} a todas las preguntas del cliente?|Hebben wij vandaag alle vragen van de klant beantwoord?
+¿Mañana nosotros {{answer}} a todas las preguntas del cliente?|Zullen wij morgen alle vragen van de klant beantwoorden?
+
+sorprender;2p;A2;statement
+Vosotros {{answer}} a vuestra madre con flores.|Jullie verrassen jullie moeder met bloemen.
+Ayer vosotros {{answer}} a vuestra madre con flores.|Gisteren verrasten jullie jullie moeder met bloemen.
+Antes vosotros {{answer}} a vuestra madre con flores.|Vroeger verrasten jullie jullie moeder met bloemen.
+Hoy vosotros {{answer}} a vuestra madre con flores.|Vandaag hebben jullie jullie moeder met bloemen verrast.
+Mañana vosotros {{answer}} a vuestra madre con flores.|Morgen zullen jullie jullie moeder met bloemen verrassen.
+
+suceder;3p;A2;negative
+Estas cosas no {{answer}} en nuestra escuela.|Deze dingen gebeuren niet op onze school.
+El año pasado estas cosas no {{answer}} en nuestra escuela.|Vorig jaar gebeurden deze dingen niet op onze school.
+Antes estas cosas no {{answer}} en nuestra escuela.|Vroeger gebeurden deze dingen niet op onze school.
+Este año estas cosas no {{answer}} en nuestra escuela.|Dit jaar zijn deze dingen niet op onze school gebeurd.
+El próximo año estas cosas no {{answer}} en nuestra escuela.|Volgend jaar zullen deze dingen niet op onze school gebeuren.
+
+temer;1s;B1;statement
+Yo {{answer}} una subida de los precios.|Ik vrees een prijsstijging.
+El mes pasado yo {{answer}} una subida de los precios.|Vorige maand vreesde ik een prijsstijging.
+Antes yo {{answer}} una subida de los precios.|Vroeger vreesde ik een prijsstijging.
+Este mes yo {{answer}} una subida de los precios.|Deze maand heb ik een prijsstijging gevreesd.
+El próximo mes yo {{answer}} una subida de los precios.|Volgende maand zal ik een prijsstijging vrezen.
+
+toser;2s;A2;question
+¿Tú {{answer}} mucho por la noche?|Hoest jij 's nachts veel?
+¿Anoche tú {{answer}} mucho?|Hoestte jij vannacht veel?
+¿Antes tú {{answer}} mucho por la noche?|Hoestte jij vroeger 's nachts veel?
+¿Esta semana tú {{answer}} mucho por la noche?|Heb jij deze week 's nachts veel gehoest?
+¿Esta noche tú {{answer}} mucho?|Zul jij vannacht veel hoesten?
+
+vender;3s;A1;statement
+La panadera {{answer}} pan en el mercado.|De bakkerin verkoopt brood op de markt.
+Ayer la panadera {{answer}} pan en el mercado.|Gisteren verkocht de bakkerin brood op de markt.
+Antes la panadera {{answer}} pan en el mercado.|Vroeger verkocht de bakkerin brood op de markt.
+Hoy la panadera {{answer}} pan en el mercado.|Vandaag heeft de bakkerin brood op de markt verkocht.
+Mañana la panadera {{answer}} pan en el mercado.|Morgen zal de bakkerin brood op de markt verkopen.
+
+atreverse;1p;B1;negative
+Nosotros no {{answer}} a hablar en público.|Wij durven niet in het openbaar te spreken.
+Ayer nosotros no {{answer}} a hablar en público.|Gisteren durfden wij niet in het openbaar te spreken.
+Antes nosotros no {{answer}} a hablar en público.|Vroeger durfden wij niet in het openbaar te spreken.
+Hoy nosotros no {{answer}} a hablar en público.|Vandaag hebben wij niet in het openbaar durven spreken.
+Mañana nosotros no {{answer}} a hablar en público.|Morgen zullen wij niet in het openbaar durven spreken.
+
+vivir;2p;A1;question
+¿Vosotros {{answer}} cerca de la estación?|Wonen jullie dicht bij het station?
+¿El año pasado vosotros {{answer}} cerca de la estación?|Woonden jullie vorig jaar dicht bij het station?
+¿Antes vosotros {{answer}} cerca de la estación?|Woonden jullie vroeger dicht bij het station?
+¿Este año vosotros {{answer}} cerca de la estación?|Hebben jullie dit jaar dicht bij het station gewoond?
+¿El próximo año vosotros {{answer}} cerca de la estación?|Zullen jullie volgend jaar dicht bij het station wonen?
+
+recibir;3p;A2;statement
+Mis padres {{answer}} cartas de sus amigos.|Mijn ouders ontvangen brieven van hun vrienden.
+La semana pasada mis padres {{answer}} cartas de sus amigos.|Vorige week ontvingen mijn ouders brieven van hun vrienden.
+Antes mis padres {{answer}} cartas de sus amigos.|Vroeger ontvingen mijn ouders brieven van hun vrienden.
+Esta semana mis padres {{answer}} cartas de sus amigos.|Deze week hebben mijn ouders brieven van hun vrienden ontvangen.
+La próxima semana mis padres {{answer}} cartas de sus amigos.|Volgende week zullen mijn ouders brieven van hun vrienden ontvangen.
+
+compartir;1s;A2;statement
+Yo {{answer}} piso con dos estudiantes.|Ik deel een appartement met twee studenten.
+El año pasado yo {{answer}} piso con dos estudiantes.|Vorig jaar deelde ik een appartement met twee studenten.
+Antes yo {{answer}} piso con dos estudiantes.|Vroeger deelde ik een appartement met twee studenten.
+Este año yo {{answer}} piso con dos estudiantes.|Dit jaar heb ik een appartement gedeeld met twee studenten.
+El próximo año yo {{answer}} piso con dos estudiantes.|Volgend jaar zal ik een appartement delen met twee studenten.
+
+subir;2s;A1;negative
+Tú no {{answer}} al quinto piso por las escaleras.|Jij gaat niet via de trap naar de vijfde verdieping.
+Ayer tú no {{answer}} al quinto piso por las escaleras.|Gisteren ging jij niet via de trap naar de vijfde verdieping.
+Antes tú no {{answer}} al quinto piso por las escaleras.|Vroeger ging jij niet via de trap naar de vijfde verdieping.
+Hoy tú no {{answer}} al quinto piso por las escaleras.|Vandaag ben jij niet via de trap naar de vijfde verdieping gegaan.
+Mañana tú no {{answer}} al quinto piso por las escaleras.|Morgen zul jij niet via de trap naar de vijfde verdieping gaan.
+
+decidir;3s;A2;statement
+El equipo {{answer}} la fecha de la reunión.|Het team bepaalt de datum van de vergadering.
+Ayer el equipo {{answer}} la fecha de la reunión.|Gisteren bepaalde het team de datum van de vergadering.
+Antes el equipo {{answer}} la fecha de cada reunión.|Vroeger bepaalde het team de datum van elke vergadering.
+Hoy el equipo {{answer}} la fecha de la reunión.|Vandaag heeft het team de datum van de vergadering bepaald.
+Mañana el equipo {{answer}} la fecha de la reunión.|Morgen zal het team de datum van de vergadering bepalen.
+
+permitir;1p;A2;negative
+Nosotros no {{answer}} el uso del móvil en clase.|Wij staan het gebruik van de telefoon in de les niet toe.
+Ayer nosotros no {{answer}} el uso del móvil en clase.|Gisteren stonden wij het gebruik van de telefoon in de les niet toe.
+Antes nosotros no {{answer}} el uso del móvil en clase.|Vroeger stonden wij het gebruik van de telefoon in de les niet toe.
+Hoy nosotros no {{answer}} el uso del móvil en clase.|Vandaag hebben wij het gebruik van de telefoon in de les niet toegestaan.
+Mañana nosotros no {{answer}} el uso del móvil en clase.|Morgen zullen wij het gebruik van de telefoon in de les niet toestaan.
+
+cumplir;2p;B1;statement
+Vosotros {{answer}} los plazos del proyecto.|Jullie houden je aan de deadlines van het project.
+El mes pasado vosotros {{answer}} los plazos del proyecto.|Vorige maand hielden jullie je aan de deadlines van het project.
+Antes vosotros {{answer}} los plazos del proyecto.|Vroeger hielden jullie je aan de deadlines van het project.
+Este mes vosotros {{answer}} los plazos del proyecto.|Deze maand hebben jullie je aan de deadlines van het project gehouden.
+El próximo mes vosotros {{answer}} los plazos del proyecto.|Volgende maand zullen jullie je aan de deadlines van het project houden.
+
+asistir;3p;A2;question
+¿Los vecinos {{answer}} a las reuniones del barrio?|Wonen de buren de buurtvergaderingen bij?
+¿El mes pasado los vecinos {{answer}} a las reuniones del barrio?|Woonden de buren vorige maand de buurtvergaderingen bij?
+¿Antes los vecinos {{answer}} a las reuniones del barrio?|Woonden de buren vroeger de buurtvergaderingen bij?
+¿Este mes los vecinos {{answer}} a las reuniones del barrio?|Hebben de buren deze maand de buurtvergaderingen bijgewoond?
+¿El próximo mes los vecinos {{answer}} a las reuniones del barrio?|Zullen de buren volgende maand de buurtvergaderingen bijwonen?
+
+admitir;1s;B1;statement
+Yo {{answer}} mis errores ante mis compañeros.|Ik geef mijn fouten toe tegenover mijn collega's.
+Ayer yo {{answer}} mis errores ante mis compañeros.|Gisteren gaf ik mijn fouten toe tegenover mijn collega's.
+Antes yo {{answer}} mis errores ante mis compañeros.|Vroeger gaf ik mijn fouten toe tegenover mijn collega's.
+Hoy yo {{answer}} mis errores ante mis compañeros.|Vandaag heb ik mijn fouten toegegeven tegenover mijn collega's.
+Mañana yo {{answer}} mis errores ante mis compañeros.|Morgen zal ik mijn fouten toegeven tegenover mijn collega's.
+
+añadir;2s;A2;statement
+Tú {{answer}} un poco de sal a la sopa.|Jij voegt een beetje zout aan de soep toe.
+Ayer tú {{answer}} un poco de sal a la sopa.|Gisteren voegde jij een beetje zout aan de soep toe.
+Antes tú {{answer}} un poco de sal a la sopa.|Vroeger voegde jij een beetje zout aan de soep toe.
+Hoy tú {{answer}} un poco de sal a la sopa.|Vandaag heb jij een beetje zout aan de soep toegevoegd.
+Mañana tú {{answer}} un poco de sal a la sopa.|Morgen zul jij een beetje zout aan de soep toevoegen.
+
+consumir;3s;B1;negative
+Esta máquina no {{answer}} mucha electricidad.|Deze machine verbruikt niet veel stroom.
+Ayer esta máquina no {{answer}} mucha electricidad.|Gisteren verbruikte deze machine niet veel stroom.
+Antes esta máquina no {{answer}} mucha electricidad.|Vroeger verbruikte deze machine niet veel stroom.
+Hoy esta máquina no {{answer}} mucha electricidad.|Vandaag heeft deze machine niet veel stroom verbruikt.
+Mañana esta máquina no {{answer}} mucha electricidad.|Morgen zal deze machine niet veel stroom verbruiken.
+
+unir;1p;A2;statement
+Nosotros {{answer}} las piezas con pegamento.|Wij verbinden de onderdelen met lijm.
+Ayer nosotros {{answer}} las piezas con pegamento.|Gisteren verbonden wij de onderdelen met lijm.
+Antes nosotros {{answer}} las piezas con pegamento.|Vroeger verbonden wij de onderdelen met lijm.
+Hoy nosotros {{answer}} las piezas con pegamento.|Vandaag hebben wij de onderdelen met lijm verbonden.
+Mañana nosotros {{answer}} las piezas con pegamento.|Morgen zullen wij de onderdelen met lijm verbinden.
+
+sufrir;2p;B1;statement
+Vosotros {{answer}} las consecuencias de la sequía.|Jullie ondervinden de gevolgen van de droogte.
+El año pasado vosotros {{answer}} las consecuencias de la sequía.|Vorig jaar ondervonden jullie de gevolgen van de droogte.
+Antes vosotros {{answer}} las consecuencias de la sequía.|Vroeger ondervonden jullie de gevolgen van de droogte.
+Este año vosotros {{answer}} las consecuencias de la sequía.|Dit jaar hebben jullie de gevolgen van de droogte ondervonden.
+El próximo año vosotros {{answer}} las consecuencias de la sequía.|Volgend jaar zullen jullie de gevolgen van de droogte ondervinden.
+
+insistir;3p;B1;statement
+Los profesores {{answer}} en la importancia de practicar.|De docenten benadrukken het belang van oefenen.
+Ayer los profesores {{answer}} en la importancia de practicar.|Gisteren benadrukten de docenten het belang van oefenen.
+Antes los profesores {{answer}} en la importancia de practicar.|Vroeger benadrukten de docenten het belang van oefenen.
+Hoy los profesores {{answer}} en la importancia de practicar.|Vandaag hebben de docenten het belang van oefenen benadrukt.
+Mañana los profesores {{answer}} en la importancia de practicar.|Morgen zullen de docenten het belang van oefenen benadrukken.
+
+sacudir;1s;A2;statement
+Yo {{answer}} la alfombra en el balcón.|Ik klop het kleed uit op het balkon.
+Ayer yo {{answer}} la alfombra en el balcón.|Gisteren klopte ik het kleed uit op het balkon.
+Antes yo {{answer}} la alfombra en el balcón.|Vroeger klopte ik het kleed uit op het balkon.
+Hoy yo {{answer}} la alfombra en el balcón.|Vandaag heb ik het kleed uitgeklopt op het balkon.
+Mañana yo {{answer}} la alfombra en el balcón.|Morgen zal ik het kleed uitkloppen op het balkon.
+
+aplaudir;2s;A2;question
+¿Tú {{answer}} al final del concierto?|Applaudisseer jij aan het einde van het concert?
+¿Ayer tú {{answer}} al final del concierto?|Applaudisseerde jij gisteren aan het einde van het concert?
+¿Antes tú {{answer}} al final de cada concierto?|Applaudisseerde jij vroeger aan het einde van elk concert?
+¿Hoy tú {{answer}} al final del concierto?|Heb jij vandaag aan het einde van het concert geapplaudisseerd?
+¿Mañana tú {{answer}} al final del concierto?|Zul jij morgen aan het einde van het concert applaudisseren?
+
+batir;3s;A2;statement
+El cocinero {{answer}} los huevos con un tenedor.|De kok klopt de eieren met een vork.
+Ayer el cocinero {{answer}} los huevos con un tenedor.|Gisteren klopte de kok de eieren met een vork.
+Antes el cocinero {{answer}} los huevos con un tenedor.|Vroeger klopte de kok de eieren met een vork.
+Hoy el cocinero {{answer}} los huevos con un tenedor.|Vandaag heeft de kok de eieren met een vork geklopt.
+Mañana el cocinero {{answer}} los huevos con un tenedor.|Morgen zal de kok de eieren met een vork kloppen.
+
+combatir;1p;B1;statement
+Nosotros {{answer}} el desperdicio de alimentos en el comedor.|Wij bestrijden voedselverspilling in de kantine.
+El mes pasado nosotros {{answer}} el desperdicio de alimentos en el comedor.|Vorige maand bestreden wij voedselverspilling in de kantine.
+Antes nosotros {{answer}} el desperdicio de alimentos en el comedor.|Vroeger bestreden wij voedselverspilling in de kantine.
+Este mes nosotros {{answer}} el desperdicio de alimentos en el comedor.|Deze maand hebben wij voedselverspilling in de kantine bestreden.
+El próximo mes nosotros {{answer}} el desperdicio de alimentos en el comedor.|Volgende maand zullen wij voedselverspilling in de kantine bestrijden.
+
+sobrevivir;2p;B1;statement
+Vosotros {{answer}} sin internet durante las vacaciones.|Jullie redden je zonder internet tijdens de vakantie.
+El verano pasado vosotros {{answer}} sin internet durante las vacaciones.|Afgelopen zomer redden jullie je zonder internet tijdens de vakantie.
+Antes vosotros {{answer}} sin internet durante las vacaciones.|Vroeger redden jullie je zonder internet tijdens de vakantie.
+Este verano vosotros {{answer}} sin internet durante las vacaciones.|Deze zomer hebben jullie je zonder internet gered tijdens de vakantie.
+El próximo verano vosotros {{answer}} sin internet durante las vacaciones.|Volgende zomer zullen jullie je zonder internet redden tijdens de vakantie.
+
+exhibir;3p;B1;statement
+Los museos {{answer}} obras de artistas locales.|De musea stellen werken van plaatselijke kunstenaars tentoon.
+El año pasado los museos {{answer}} obras de artistas locales.|Vorig jaar stelden de musea werken van plaatselijke kunstenaars tentoon.
+Antes los museos {{answer}} obras de artistas locales.|Vroeger stelden de musea werken van plaatselijke kunstenaars tentoon.
+Este año los museos {{answer}} obras de artistas locales.|Dit jaar hebben de musea werken van plaatselijke kunstenaars tentoongesteld.
+El próximo año los museos {{answer}} obras de artistas locales.|Volgend jaar zullen de musea werken van plaatselijke kunstenaars tentoonstellen.

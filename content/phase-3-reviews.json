@@ -1,0 +1,662 @@
+{
+  "admitir": {
+    "contentHash": "7b2fce52f229736a91c260d9dcbc14465beef3f98c43923a0ea40280a6a97c7a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "aplaudir": {
+    "contentHash": "de4c48b281bae6f0ab043bb47cfaf179b5bd9901b7a0d2a5bfae8a2769a193fe",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "aprender": {
+    "contentHash": "b4fce313460573d54d3d7b26f1410f69be79ba26cfff282e80a2e1544cea6859",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "asistir": {
+    "contentHash": "2b5220e373099d1c0b9f9bc54a804e0d15d2a00f200a67c20b0401ceb64b9e3e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Asistir a las reuniones is vergaderingen bijwonen, niet iemand assisteren.",
+    "status": "ai_reviewed"
+  },
+  "atreverse": {
+    "contentHash": "38c9c2afc555b311136c026b8d6e50db187cd3f5a0210f5471cc1338905057a9",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Regelmatig reflexief -er-werkwoord. Vast 1p; de bronantwoorden bevatten nos, ook nos hemos atrevido. No staat eenmaal in de context. NL-perfectum: hebben durven spreken. Reflexieve imperatiefaccenten afzonderlijk visueel aan de bron gecontroleerd.",
+    "status": "ai_reviewed"
+  },
+  "ayudar": {
+    "contentHash": "a21284d703b938a10462b02e4909f2868e77569182222c7149c1ffb6885aaae6",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "añadir": {
+    "contentHash": "8623f20804e24ee7ab05d83550f6d0102370841d8458121c7813195d004c0033",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "bailar": {
+    "contentHash": "20c97eb9e37ab7760c55d9c12aff3f27475011f600cea7942e9db7bf8314bc3f",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "barrer": {
+    "contentHash": "4d14062a7670971fc246a4d201457ffc50bd6d2fb21c5da13467f5026b0689f1",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "batir": {
+    "contentHash": "76bcebc947f92ab5b2eab460936d82d4e52df9b82174addc61c0f439b85a5d28",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "beber": {
+    "contentHash": "3203473b86c70d79c2704338574d59a6cfdb3fdafa26b411c94a1e31918ccd9e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "caminar": {
+    "contentHash": "bfbe43d803ae6913ce66f96d80ed7517e2463b8575c3a03af4c78d48545aa470",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "cenar": {
+    "contentHash": "c7df777a34782227a765a37536d41afb89ce23f84b45a1b26bcd6b8101c9a794",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Cenar expliciet als het avondeten eten vertaald, om verwarring met eten overdag te vermijden.",
+    "status": "ai_reviewed"
+  },
+  "cocinar": {
+    "contentHash": "23a888a77c4699517115a9970f2e128e51929167cebe9de70eda4b1510481302",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "combatir": {
+    "contentHash": "762e6bb6e220cd619538a3a52b4f5f372bc005effb6a303e676a535ea53f3d6e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "comer": {
+    "contentHash": "582c42d28a511564d666f6e8bf37c924d7581c301c7cd7df5f321bdf9eda3de3",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "compartir": {
+    "contentHash": "5b0462e5ef3dc79d06e504e129f5706ce1c7c534d12dd8afdc7b3835a0983598",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "comprar": {
+    "contentHash": "fcb9aa619fc299d21f04d96a4aeb1e28464c41d746d51f10f5e050310888bb22",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "comprender": {
+    "contentHash": "fb6c05bbc491dc3deaff334e6f1a8daecc2a317b5db68c0d1c3052d317cb6b32",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Begrijpen: indefinido beschrijft het begrip tijdens het afgesloten moment ayer; imperfecto de vroegere toestand.",
+    "status": "ai_reviewed"
+  },
+  "consumir": {
+    "contentHash": "94c8ee803d3fe76abb5010e98fc6332899252622e602cea1e02cd1b859465ab0",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Esta máquina is 3s; consumir electricidad is stroom verbruiken, niet consumeren van voedsel.",
+    "status": "ai_reviewed"
+  },
+  "correr": {
+    "contentHash": "ee2165d7db9def9d7f89f8a8e2a56d080675c15c4be85e90e7b88772b68ddae1",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "coser": {
+    "contentHash": "6868c2375f90ed615021ab17919472fdd80607ce5e49278d2b94b5011448282a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "cumplir": {
+    "contentHash": "6f33d75b98184ecd58d066c7f59ee0a9a8889c99d80b196f2f3144460a0aa98a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Cumplir los plazos vertaald als zich aan deadlines houden; de Nederlandse wederkerigheid betekent niet dat het Spaanse werkwoord reflexief is.",
+    "status": "ai_reviewed"
+  },
+  "deber": {
+    "contentHash": "adb6eca7203b0eb325e3f4634e8ac3219563ed5dfb4e58a014848ff71afe9e79",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Betekenis is geld schuldig zijn, niet moeten. De afgesloten periode met en ningún momento maakt de indefinido-context expliciet. NL gebruikt zijn/was/geweest.",
+    "status": "ai_reviewed"
+  },
+  "decidir": {
+    "contentHash": "0b478c09db05d3f3d4aa5eac18857a5d509276104da0179abc015c8e4f79d6f7",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "depender": {
+    "contentHash": "2e1f59223c7374b2a41dc2d066128ae754c662f75db4de131ee4e2f017ee975a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "desayunar": {
+    "contentHash": "a5b748492a06e1aabc1512ff8d67af086ec748372629a9d180c2b5bdc7f9f203",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "esconder": {
+    "contentHash": "9bda1d774438e022a9481b3d54fe233aafbbb67e23cd6c8ab9edaa5836b13f1d",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "escuchar": {
+    "contentHash": "f3f27345701ae9ad4386fc222ac1bb4ec88b254431f4e30d8faf41259fac994e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "estudiar": {
+    "contentHash": "8bb3fda01b0a100f8060942a783280c9e37aa023f065089d2791f54cd4cc4382",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "exhibir": {
+    "contentHash": "cac306e4c73e8c223341caff517e0e78885f81ee26deee1651acefb42ad63a1e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "hablar": {
+    "contentHash": "39d9e075f25c4dc0c547d790f9695692dda883c1769d80d848eac59a124a4c1e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "insistir": {
+    "contentHash": "cd5e5262e00ec5382e5e82faeb9cef1d7961be3fa8406017e7255bf698013f40",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Insistir en la importancia idiomatisch vertaald als het belang benadrukken, met behoud van tijd en onderwerp.",
+    "status": "ai_reviewed"
+  },
+  "lavar": {
+    "contentHash": "9f96f5754d586ecd36bb59c8f4d66bbc5fd1fe8f848b1a172c090e8f6cfd2cba",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "limpiar": {
+    "contentHash": "7f2305ee5cfa903aed75171da5da429ce6ffd0b1b0b48f5e89eb1fae03a7493d",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "meter": {
+    "contentHash": "f7a6c6f159760d11683d06a312aabcbd36153b92e1e98335b1cb18fa18f55e91",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "mirar": {
+    "contentHash": "417b8fe2aefef26d0f0f568f2843cd20dd6cfa43d7286462de7fe121292e19d7",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "nadar": {
+    "contentHash": "45ab5dad1fe91dea63a94ae5aaa1d1458b5eade30a33002c68acba3659fa0376",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "ofender": {
+    "contentHash": "8c7a35c15beca88798193b9c6f61ff359e0811f50de4e9c20e8d9eea1fc7c190",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "permitir": {
+    "contentHash": "6ecc98b2995c590bc2e5bfe2672a8ae0723b03db741100627bb425ab0e54ca23",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "pintar": {
+    "contentHash": "34bc1471a357a236d31a5ecaae31314db7f3e1084940b45a4b0bf59a7f1fdb92",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "preguntar": {
+    "contentHash": "0e89f56b34a917936cc299104eb6748d117dfa1efbad036dcb268b2a03764538",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "preparar": {
+    "contentHash": "733b4f1bc8420ce370945a1cfb211f17e6369578dd044a0e40681d2436e7848a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "prometer": {
+    "contentHash": "482234a8dc85248abc66a5978ba7e41f5986b2cadd20b80fbdd59cab4c24414b",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "recibir": {
+    "contentHash": "5c2bfc158c73a00c85cb3ca7efd4ae7f555415872e9c575d4ab54cd556cea95f",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "responder": {
+    "contentHash": "ee0fa265144ebf4ffd8bb84af64e634dcfcc750f7bd79516c5ba52825592a2fd",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "sacudir": {
+    "contentHash": "6fcde8330c78ef9e9a04647e01cee3a747146f05901ded923d6357c76490a6ec",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "sobrevivir": {
+    "contentHash": "87fca49d80f9533c92f130336b6fca564ba70e705b9aa72b8bdd20f4addf1678",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Bewust figuurlijk: zonder internet kunnen leven. NL redden zich past bij deze context; geen letterlijke levensbedreigende situatie bedoeld.",
+    "status": "ai_reviewed"
+  },
+  "sorprender": {
+    "contentHash": "ab92f3a4a8ab33850d1a68807c468c1ceb2800b3331cc0a71eade3ec805b2905",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "subir": {
+    "contentHash": "8a50de2f75c480403466999e31751f4c77d6d74b7ab869465ec62249f5bc1fc7",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Nederlandse voltooide tijd gebruikt ben gegaan; Spaanse ontkenning en vast 2s blijven gelijk.",
+    "status": "ai_reviewed"
+  },
+  "suceder": {
+    "contentHash": "c76ba9f10d309d8f7e601d24d7d3014f9d410d97248c367a1ae1f56a1c78b483",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "In deze context zijn cosas het expliciete meervoudige onderwerp (3p); er worden geen persoonsvormen met een menselijke gebeurtenisbetekenis aangeboden.",
+    "status": "ai_reviewed"
+  },
+  "sufrir": {
+    "contentHash": "5e8fa1c635d58237e3ec31550d6f0aa0c1e959c26beeaf77d91d210838e4f36c",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "temer": {
+    "contentHash": "09d787ea296982cb783a8e905b5cd8ec9b97f74a645a389b1a65678a5e98c56e",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "toser": {
+    "contentHash": "cae43ecec861cf87ca4766078888a6abd848cfbd8c350b8b7e5a5395f46f8ea7",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "trabajar": {
+    "contentHash": "56084f164d466c0224795f257f8f7353d3653a048c0cebc0d6e11debe3b322fc",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "unir": {
+    "contentHash": "ddc1062aedc96c46b9672f16c62397c8110c79ee4b62fab0164a289d7629729d",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "vender": {
+    "contentHash": "8498c00123f398afbd1a53c7877905959abed0583eedba53f3bf7a42eb46463f",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "viajar": {
+    "contentHash": "8a8b4c2e91c28268c5e4894dc2fe6810ecb8670ce1e70ad492b340b40cf6ef5a",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Nederlandse voltooide tijd naar een bestemming gebruikt is gereisd, hoewel het Spaanse hulpwerkwoord haber is.",
+    "status": "ai_reviewed"
+  },
+  "visitar": {
+    "contentHash": "183a7c69d82597826db494be02e9b220488fbcf866d9b60d0f92811d64074089",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  },
+  "vivir": {
+    "contentHash": "49c12cc5f2dd7a159c6e6af57aff25e68a3f78f6bc89d3b5f03d2a4b328bcf6b",
+    "humanReview": {
+      "date": null,
+      "reviewer": null,
+      "status": "pending"
+    },
+    "issues": [],
+    "note": "Eigen vaste context en persoonslot; alle vijf Spaanse tijdframes en de Nederlandse persoons-/tijdsvormen door Codex nagekeken. Geen menselijke review geclaimd.",
+    "status": "ai_reviewed"
+  }
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Palabra — Spaanse werkwoordtrainer</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script defer src="data/forms.js"></script>
+  <script defer src="data/verbs.js"></script>
+  <script defer src="data/sentences.js"></script>
+  <script defer src="data/constructions.js"></script>
+  <script defer src="data/help-tables.js"></script>
+  <script defer src="data/grammar.js"></script>
+  <script defer src="js/validation.js"></script>
+  <script defer src="js/exercises.js"></script>
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Ga naar de inhoud</a>
+  <header class="site-header"><a class="brand" href="index.html" aria-label="Palabra, opnieuw beginnen"><span class="brand-mark" aria-hidden="true">á</span> palabra<span class="brand-dot" aria-hidden="true">.</span></a><span class="header-note">Jouw moment voor Spaans</span></header>
+  <main id="main" tabindex="-1">
+    <noscript><p class="error-box">Schakel JavaScript in om de werkwoordtrainer te gebruiken.</p></noscript>
+    <p id="fatal" class="error-box" role="alert" hidden></p>
+    <section id="start-screen" aria-labelledby="start-title">
+      <div class="intro"><p class="eyebrow">Spaanse werkwoordtrainer</p><h1 id="start-title">Een beetje Spaans.<br><em>Helemaal op jouw tempo.</em></h1><p>Kies wat je wilt oefenen. Vul de werkwoordvorm in, probeer het nog eens en ga verder wanneer jij wilt.</p></div>
+      <form id="selection-form" class="card selection-card">
+        <fieldset><legend>Welke tijden wil je oefenen?</legend><p class="field-note">Kies één of meer tijden.</p><div id="main-forms" class="time-grid"></div></fieldset>
+        <details id="extra-forms"><summary>Meer oefenvormen</summary><div id="extra-groups"></div><p class="field-note">Vormen zonder gecontroleerde oefeningen zijn nog niet beschikbaar.</p></details>
+        <fieldset class="categories"><legend>Welke werkwoorden?</legend><div class="category-grid"><label class="check-card"><input type="checkbox" name="category" value="regular" checked><span>Regelmatig</span></label><label class="check-card"><input type="checkbox" name="category" value="irregular" checked><span>Onregelmatig</span></label></div></fieldset>
+        <div class="start-actions"><p id="selection-message" role="status" aria-live="polite">De oefengegevens worden geladen…</p><button id="start-button" class="primary" type="submit" disabled>Start oefenen <span aria-hidden="true">→</span></button></div>
+      </form>
+      <p class="quiet-note">Geen score. Geen haast. Gewoon oefenen.</p>
+    </section>
+    <section id="exercise-screen" aria-labelledby="exercise-title" hidden>
+      <div class="exercise-top"><button id="back-button" class="text-button" type="button">← Andere selectie</button><span class="pill">Oefenen</span></div>
+      <div class="card exercise-card">
+        <div class="exercise-heading"><div><p class="eyebrow">Vul de volledige werkwoordvorm in</p><h1 id="exercise-title" lang="es"></h1><p id="exercise-title-nl" class="term-nl" lang="nl"></p></div><button id="grammar-button" class="info-button" type="button" aria-label="Uitleg over deze tijd of vorm" title="Uitleg over deze tijd of vorm" aria-haspopup="dialog" aria-controls="grammar-dialog">i</button></div>
+        <p id="sentence" class="sentence" lang="es"></p>
+        <div class="verb-tools"><p class="infinitive-line">Werkwoord <strong id="infinitive" lang="es"></strong></p><button id="info-button" class="text-button" type="button" aria-label="Vervoegingstabel openen" aria-haspopup="dialog" aria-controls="help-dialog">Vervoegingstabel</button></div>
+        <form id="answer-form" novalidate>
+          <label for="answer">Jouw antwoord</label>
+          <input id="answer" name="answer" type="text" lang="es" autocomplete="off" autocapitalize="none" spellcheck="false" aria-describedby="answer-hint feedback">
+          <p id="answer-hint" class="field-note">Typ de volledige vorm, ook hulpwerkwoorden en eventuele voornaamwoorden. Accenten tellen mee.</p>
+          <div id="accents" class="accent-buttons" role="group" aria-label="Spaanse tekens invoegen"></div>
+          <div class="answer-actions"><button id="check-button" class="primary" type="submit">Controleer</button><button id="show-button" class="secondary" type="button">Antwoord tonen</button></div>
+        </form>
+        <p id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
+        <div id="reveal" class="reveal" aria-live="polite" hidden><p class="eyebrow">Het antwoord</p><p id="correct-answer" lang="es"></p><p id="translation"></p></div>
+        <div class="next-row"><p id="cycle-message" class="field-note" role="status" aria-live="polite"></p><button id="next-button" class="primary" type="button" disabled>Volgende zin <span aria-hidden="true">→</span></button></div>
+      </div>
+    </section>
+    <dialog id="help-dialog" aria-labelledby="help-title"><div class="dialog-heading"><h2 id="help-title">Vervoegingstabel</h2><button id="close-help" class="secondary" type="button" autofocus>Sluiten</button></div><div class="table-wrap" id="help-content"></div></dialog>
+    <dialog id="grammar-dialog" aria-labelledby="grammar-title"><div class="dialog-heading"><h2 id="grammar-title">Over deze tijd</h2><button id="close-grammar" class="secondary" type="button" autofocus>Sluiten</button></div><p id="grammar-term" class="term-nl"></p><div id="grammar-content" class="grammar-content"></div><p id="grammar-source" class="grammar-source"></p></dialog>
+  </main>
+  <footer>Palabra · Spaans oefenen, op jouw manier <span aria-hidden="true">✦</span></footer>
+</body>
+</html>

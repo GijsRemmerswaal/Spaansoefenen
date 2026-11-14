@@ -1,0 +1,2042 @@
+[
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "hablar:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} español con mi vecina.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} español con mi vecina.",
+          "indicative.imperfect": "Antes yo {{answer}} español con mi vecina cada tarde.",
+          "indicative.present": "Yo {{answer}} español con mi vecina.",
+          "indicative.present_perfect": "Hoy yo {{answer}} español con mi vecina.",
+          "indicative.preterite": "Ayer yo {{answer}} español con mi vecina."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik Spaans spreken met mijn buurvrouw.",
+          "indicative.imperfect": "Vroeger sprak ik elke middag Spaans met mijn buurvrouw.",
+          "indicative.present": "Ik spreek Spaans met mijn buurvrouw.",
+          "indicative.present_perfect": "Vandaag heb ik Spaans gesproken met mijn buurvrouw.",
+          "indicative.preterite": "Gisteren sprak ik Spaans met mijn buurvrouw."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "hablar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "trabajar:basis_01",
+        "slotId": "2s",
+        "spanishBase": "¿Tú {{answer}} en la biblioteca?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana tú {{answer}} en la biblioteca?",
+          "indicative.imperfect": "¿Antes tú {{answer}} en la biblioteca?",
+          "indicative.present": "¿Tú {{answer}} en la biblioteca?",
+          "indicative.present_perfect": "¿Hoy tú {{answer}} en la biblioteca?",
+          "indicative.preterite": "¿Ayer tú {{answer}} en la biblioteca?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zul jij morgen in de bibliotheek werken?",
+          "indicative.imperfect": "Werkte jij vroeger in de bibliotheek?",
+          "indicative.present": "Werk jij in de bibliotheek?",
+          "indicative.present_perfect": "Heb jij vandaag in de bibliotheek gewerkt?",
+          "indicative.preterite": "Werkte jij gisteren in de bibliotheek?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "trabajar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "estudiar:basis_01",
+        "slotId": "3s",
+        "spanishBase": "Lucía {{answer}} medicina en Valencia.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año Lucía {{answer}} medicina en Valencia.",
+          "indicative.imperfect": "En aquella época Lucía {{answer}} medicina en Valencia.",
+          "indicative.present": "Lucía {{answer}} medicina en Valencia.",
+          "indicative.present_perfect": "Este año Lucía {{answer}} medicina en Valencia.",
+          "indicative.preterite": "El año pasado Lucía {{answer}} medicina en Valencia."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zal Lucía geneeskunde studeren in Valencia.",
+          "indicative.imperfect": "In die tijd studeerde Lucía geneeskunde in Valencia.",
+          "indicative.present": "Lucía studeert geneeskunde in Valencia.",
+          "indicative.present_perfect": "Dit jaar heeft Lucía geneeskunde gestudeerd in Valencia.",
+          "indicative.preterite": "Vorig jaar studeerde Lucía geneeskunde in Valencia."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "estudiar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "comprar:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros no {{answer}} bebidas azucaradas.",
+        "spanishByFormId": {
+          "indicative.future": "La próxima semana nosotros no {{answer}} bebidas azucaradas.",
+          "indicative.imperfect": "Antes nosotros no {{answer}} bebidas azucaradas.",
+          "indicative.present": "Nosotros no {{answer}} bebidas azucaradas.",
+          "indicative.present_perfect": "Esta semana nosotros no {{answer}} bebidas azucaradas.",
+          "indicative.preterite": "Ayer nosotros no {{answer}} bebidas azucaradas."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende week zullen wij geen suikerhoudende dranken kopen.",
+          "indicative.imperfect": "Vroeger kochten wij geen suikerhoudende dranken.",
+          "indicative.present": "Wij kopen geen suikerhoudende dranken.",
+          "indicative.present_perfect": "Deze week hebben wij geen suikerhoudende dranken gekocht.",
+          "indicative.preterite": "Gisteren kochten wij geen suikerhoudende dranken."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "negative",
+    "verbId": "comprar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "cocinar:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} sopa para la familia.",
+        "spanishByFormId": {
+          "indicative.future": "Esta noche vosotros {{answer}} sopa para la familia.",
+          "indicative.imperfect": "Antes vosotros {{answer}} sopa para la familia los domingos.",
+          "indicative.present": "Vosotros {{answer}} sopa para la familia.",
+          "indicative.present_perfect": "Hoy vosotros {{answer}} sopa para la familia.",
+          "indicative.preterite": "Anoche vosotros {{answer}} sopa para la familia."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Vanavond zullen jullie soep koken voor de familie.",
+          "indicative.imperfect": "Vroeger kookten jullie op zondag soep voor de familie.",
+          "indicative.present": "Jullie koken soep voor de familie.",
+          "indicative.present_perfect": "Vandaag hebben jullie soep gekookt voor de familie.",
+          "indicative.preterite": "Gisteravond kookten jullie soep voor de familie."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "cocinar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "escuchar:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Los niños {{answer}} un cuento antes de dormir.",
+        "spanishByFormId": {
+          "indicative.future": "Esta noche los niños {{answer}} un cuento antes de dormir.",
+          "indicative.imperfect": "Antes los niños {{answer}} un cuento antes de dormir.",
+          "indicative.present": "Los niños {{answer}} un cuento antes de dormir.",
+          "indicative.present_perfect": "Esta semana los niños {{answer}} un cuento antes de dormir.",
+          "indicative.preterite": "Anoche los niños {{answer}} un cuento antes de dormir."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Vanavond zullen de kinderen naar een verhaal luisteren voor het slapengaan.",
+          "indicative.imperfect": "Vroeger luisterden de kinderen naar een verhaal voor het slapengaan.",
+          "indicative.present": "De kinderen luisteren naar een verhaal voor het slapengaan.",
+          "indicative.present_perfect": "Deze week hebben de kinderen voor het slapengaan naar een verhaal geluisterd.",
+          "indicative.preterite": "Gisteravond luisterden de kinderen naar een verhaal voor het slapengaan."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "escuchar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "mirar:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo no {{answer}} el móvil durante la cena.",
+        "spanishByFormId": {
+          "indicative.future": "Esta noche yo no {{answer}} el móvil durante la cena.",
+          "indicative.imperfect": "Antes yo no {{answer}} el móvil durante la cena.",
+          "indicative.present": "Yo no {{answer}} el móvil durante la cena.",
+          "indicative.present_perfect": "Hoy yo no {{answer}} el móvil durante la cena.",
+          "indicative.preterite": "Anoche yo no {{answer}} el móvil durante la cena."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Vanavond zal ik tijdens het avondeten niet op mijn telefoon kijken.",
+          "indicative.imperfect": "Vroeger keek ik tijdens het avondeten niet op mijn telefoon.",
+          "indicative.present": "Ik kijk tijdens het avondeten niet op mijn telefoon.",
+          "indicative.present_perfect": "Vandaag heb ik tijdens het avondeten niet op mijn telefoon gekeken.",
+          "indicative.preterite": "Gisteravond keek ik tijdens het avondeten niet op mijn telefoon."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "negative",
+    "verbId": "mirar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "caminar:basis_01",
+        "slotId": "2s",
+        "spanishBase": "Tú {{answer}} por el parque después de comer.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana tú {{answer}} por el parque después de comer.",
+          "indicative.imperfect": "Antes tú {{answer}} por el parque después de comer.",
+          "indicative.present": "Tú {{answer}} por el parque después de comer.",
+          "indicative.present_perfect": "Hoy tú {{answer}} por el parque después de comer.",
+          "indicative.preterite": "Ayer tú {{answer}} por el parque después de comer."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zul jij na het eten door het park wandelen.",
+          "indicative.imperfect": "Vroeger wandelde jij na het eten door het park.",
+          "indicative.present": "Jij wandelt na het eten door het park.",
+          "indicative.present_perfect": "Vandaag heb jij na het eten door het park gewandeld.",
+          "indicative.preterite": "Gisteren wandelde jij na het eten door het park."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "caminar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "viajar:basis_01",
+        "slotId": "3s",
+        "spanishBase": "¿Pablo {{answer}} a Sevilla en tren?",
+        "spanishByFormId": {
+          "indicative.future": "¿El próximo mes Pablo {{answer}} a Sevilla en tren?",
+          "indicative.imperfect": "¿Antes Pablo {{answer}} a Sevilla en tren?",
+          "indicative.present": "¿Pablo {{answer}} a Sevilla en tren?",
+          "indicative.present_perfect": "¿Este mes Pablo {{answer}} a Sevilla en tren?",
+          "indicative.preterite": "¿El mes pasado Pablo {{answer}} a Sevilla en tren?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zal Pablo volgende maand met de trein naar Sevilla reizen?",
+          "indicative.imperfect": "Reisde Pablo vroeger met de trein naar Sevilla?",
+          "indicative.present": "Reist Pablo met de trein naar Sevilla?",
+          "indicative.present_perfect": "Is Pablo deze maand met de trein naar Sevilla gereisd?",
+          "indicative.preterite": "Reisde Pablo vorige maand met de trein naar Sevilla?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "viajar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "visitar:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros {{answer}} a nuestros abuelos los domingos.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo domingo nosotros {{answer}} a nuestros abuelos.",
+          "indicative.imperfect": "Antes nosotros {{answer}} a nuestros abuelos los domingos.",
+          "indicative.present": "Nosotros {{answer}} a nuestros abuelos los domingos.",
+          "indicative.present_perfect": "Este mes nosotros {{answer}} a nuestros abuelos.",
+          "indicative.preterite": "El domingo pasado nosotros {{answer}} a nuestros abuelos."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Komende zondag zullen wij onze grootouders bezoeken.",
+          "indicative.imperfect": "Vroeger bezochten wij onze grootouders op zondag.",
+          "indicative.present": "Wij bezoeken onze grootouders op zondag.",
+          "indicative.present_perfect": "Deze maand hebben wij onze grootouders bezocht.",
+          "indicative.preterite": "Afgelopen zondag bezochten wij onze grootouders."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "visitar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "ayudar:basis_01",
+        "slotId": "2p",
+        "spanishBase": "¿Vosotros {{answer}} a los vecinos con las bolsas?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana vosotros {{answer}} a los vecinos con las bolsas?",
+          "indicative.imperfect": "¿Antes vosotros {{answer}} a los vecinos con las bolsas?",
+          "indicative.present": "¿Vosotros {{answer}} a los vecinos con las bolsas?",
+          "indicative.present_perfect": "¿Hoy vosotros {{answer}} a los vecinos con las bolsas?",
+          "indicative.preterite": "¿Ayer vosotros {{answer}} a los vecinos con las bolsas?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zullen jullie morgen de buren met de tassen helpen?",
+          "indicative.imperfect": "Hielpen jullie vroeger de buren met de tassen?",
+          "indicative.present": "Helpen jullie de buren met de tassen?",
+          "indicative.present_perfect": "Hebben jullie vandaag de buren met de tassen geholpen?",
+          "indicative.preterite": "Hielpen jullie gisteren de buren met de tassen?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "ayudar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "limpiar:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Ana y Luis {{answer}} la cocina después de cenar.",
+        "spanishByFormId": {
+          "indicative.future": "Esta noche Ana y Luis {{answer}} la cocina después de cenar.",
+          "indicative.imperfect": "Antes Ana y Luis {{answer}} la cocina después de cenar.",
+          "indicative.present": "Ana y Luis {{answer}} la cocina después de cenar.",
+          "indicative.present_perfect": "Esta semana Ana y Luis {{answer}} la cocina después de cenar.",
+          "indicative.preterite": "Anoche Ana y Luis {{answer}} la cocina después de cenar."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Vanavond zullen Ana en Luis de keuken schoonmaken na het avondeten.",
+          "indicative.imperfect": "Vroeger maakten Ana en Luis de keuken schoon na het avondeten.",
+          "indicative.present": "Ana en Luis maken de keuken schoon na het avondeten.",
+          "indicative.present_perfect": "Deze week hebben Ana en Luis de keuken schoongemaakt na het avondeten.",
+          "indicative.preterite": "Gisteravond maakten Ana en Luis de keuken schoon na het avondeten."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "limpiar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "lavar:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} la ropa a mano.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} la ropa a mano.",
+          "indicative.imperfect": "Antes yo {{answer}} la ropa a mano.",
+          "indicative.present": "Yo {{answer}} la ropa a mano.",
+          "indicative.present_perfect": "Hoy yo {{answer}} la ropa a mano.",
+          "indicative.preterite": "Ayer yo {{answer}} la ropa a mano."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik de kleren met de hand wassen.",
+          "indicative.imperfect": "Vroeger waste ik de kleren met de hand.",
+          "indicative.present": "Ik was de kleren met de hand.",
+          "indicative.present_perfect": "Vandaag heb ik de kleren met de hand gewassen.",
+          "indicative.preterite": "Gisteren waste ik de kleren met de hand."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "lavar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "preparar:basis_01",
+        "slotId": "2s",
+        "spanishBase": "Tú {{answer}} la mochila antes de salir.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana tú {{answer}} la mochila antes de salir.",
+          "indicative.imperfect": "Antes tú {{answer}} la mochila antes de salir.",
+          "indicative.present": "Tú {{answer}} la mochila antes de salir.",
+          "indicative.present_perfect": "Hoy tú {{answer}} la mochila antes de salir.",
+          "indicative.preterite": "Ayer tú {{answer}} la mochila antes de salir."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zul jij de rugzak klaarmaken voordat je vertrekt.",
+          "indicative.imperfect": "Vroeger maakte jij de rugzak klaar voordat je vertrok.",
+          "indicative.present": "Jij maakt de rugzak klaar voordat je vertrekt.",
+          "indicative.present_perfect": "Vandaag heb jij de rugzak klaargemaakt voordat je vertrok.",
+          "indicative.preterite": "Gisteren maakte jij de rugzak klaar voordat je vertrok."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "preparar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "desayunar:basis_01",
+        "slotId": "3s",
+        "spanishBase": "Marta no {{answer}} en la oficina.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana Marta no {{answer}} en la oficina.",
+          "indicative.imperfect": "Antes Marta no {{answer}} en la oficina.",
+          "indicative.present": "Marta no {{answer}} en la oficina.",
+          "indicative.present_perfect": "Hoy Marta no {{answer}} en la oficina.",
+          "indicative.preterite": "Ayer Marta no {{answer}} en la oficina."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal Marta niet op kantoor ontbijten.",
+          "indicative.imperfect": "Vroeger ontbeet Marta niet op kantoor.",
+          "indicative.present": "Marta ontbijt niet op kantoor.",
+          "indicative.present_perfect": "Vandaag heeft Marta niet op kantoor ontbeten.",
+          "indicative.preterite": "Gisteren ontbeet Marta niet op kantoor."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "negative",
+    "verbId": "desayunar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "cenar:basis_01",
+        "slotId": "1p",
+        "spanishBase": "¿Nosotros {{answer}} juntos en casa?",
+        "spanishByFormId": {
+          "indicative.future": "¿Esta noche nosotros {{answer}} juntos en casa?",
+          "indicative.imperfect": "¿Antes nosotros {{answer}} juntos en casa?",
+          "indicative.present": "¿Nosotros {{answer}} juntos en casa?",
+          "indicative.present_perfect": "¿Esta semana nosotros {{answer}} juntos en casa?",
+          "indicative.preterite": "¿Anoche nosotros {{answer}} juntos en casa?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zullen wij vanavond samen thuis het avondeten eten?",
+          "indicative.imperfect": "Aten wij vroeger samen thuis het avondeten?",
+          "indicative.present": "Eten wij samen thuis het avondeten?",
+          "indicative.present_perfect": "Hebben wij deze week samen thuis het avondeten gegeten?",
+          "indicative.preterite": "Aten wij gisteravond samen thuis het avondeten?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "cenar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "bailar:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} salsa en la escuela de baile.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana vosotros {{answer}} salsa en la escuela de baile.",
+          "indicative.imperfect": "Antes vosotros {{answer}} salsa en la escuela de baile.",
+          "indicative.present": "Vosotros {{answer}} salsa en la escuela de baile.",
+          "indicative.present_perfect": "Hoy vosotros {{answer}} salsa en la escuela de baile.",
+          "indicative.preterite": "Ayer vosotros {{answer}} salsa en la escuela de baile."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen jullie salsa dansen op de dansschool.",
+          "indicative.imperfect": "Vroeger dansten jullie salsa op de dansschool.",
+          "indicative.present": "Jullie dansen salsa op de dansschool.",
+          "indicative.present_perfect": "Vandaag hebben jullie salsa gedanst op de dansschool.",
+          "indicative.preterite": "Gisteren dansten jullie salsa op de dansschool."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "bailar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "nadar:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Mis amigos {{answer}} en la piscina municipal.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana mis amigos {{answer}} en la piscina municipal.",
+          "indicative.imperfect": "Antes mis amigos {{answer}} en la piscina municipal.",
+          "indicative.present": "Mis amigos {{answer}} en la piscina municipal.",
+          "indicative.present_perfect": "Hoy mis amigos {{answer}} en la piscina municipal.",
+          "indicative.preterite": "Ayer mis amigos {{answer}} en la piscina municipal."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen mijn vrienden in het gemeentelijke zwembad zwemmen.",
+          "indicative.imperfect": "Vroeger zwommen mijn vrienden in het gemeentelijke zwembad.",
+          "indicative.present": "Mijn vrienden zwemmen in het gemeentelijke zwembad.",
+          "indicative.present_perfect": "Vandaag hebben mijn vrienden in het gemeentelijke zwembad gezwommen.",
+          "indicative.preterite": "Gisteren zwommen mijn vrienden in het gemeentelijke zwembad."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "nadar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "pintar:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} paisajes con acuarelas.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo verano yo {{answer}} paisajes con acuarelas.",
+          "indicative.imperfect": "Antes yo {{answer}} paisajes con acuarelas.",
+          "indicative.present": "Yo {{answer}} paisajes con acuarelas.",
+          "indicative.present_perfect": "Este verano yo {{answer}} paisajes con acuarelas.",
+          "indicative.preterite": "El verano pasado yo {{answer}} paisajes con acuarelas."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende zomer zal ik landschappen met waterverf schilderen.",
+          "indicative.imperfect": "Vroeger schilderde ik landschappen met waterverf.",
+          "indicative.present": "Ik schilder landschappen met waterverf.",
+          "indicative.present_perfect": "Deze zomer heb ik landschappen met waterverf geschilderd.",
+          "indicative.preterite": "Afgelopen zomer schilderde ik landschappen met waterverf."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "pintar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "preguntar:basis_01",
+        "slotId": "2s",
+        "spanishBase": "¿Tú {{answer}} la hora al conductor?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana tú {{answer}} la hora al conductor?",
+          "indicative.imperfect": "¿Antes tú {{answer}} la hora al conductor?",
+          "indicative.present": "¿Tú {{answer}} la hora al conductor?",
+          "indicative.present_perfect": "¿Hoy tú {{answer}} la hora al conductor?",
+          "indicative.preterite": "¿Ayer tú {{answer}} la hora al conductor?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zul jij morgen aan de chauffeur vragen hoe laat het is?",
+          "indicative.imperfect": "Vroeg jij vroeger aan de chauffeur hoe laat het was?",
+          "indicative.present": "Vraag jij aan de chauffeur hoe laat het is?",
+          "indicative.present_perfect": "Heb jij vandaag aan de chauffeur gevraagd hoe laat het was?",
+          "indicative.preterite": "Vroeg jij gisteren aan de chauffeur hoe laat het was?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "preguntar"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "aprender:basis_01",
+        "slotId": "3s",
+        "spanishBase": "Sofía {{answer}} palabras nuevas con tarjetas.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana Sofía {{answer}} palabras nuevas con tarjetas.",
+          "indicative.imperfect": "Antes Sofía {{answer}} palabras nuevas con tarjetas.",
+          "indicative.present": "Sofía {{answer}} palabras nuevas con tarjetas.",
+          "indicative.present_perfect": "Hoy Sofía {{answer}} palabras nuevas con tarjetas.",
+          "indicative.preterite": "Ayer Sofía {{answer}} palabras nuevas con tarjetas."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal Sofía nieuwe woorden leren met kaartjes.",
+          "indicative.imperfect": "Vroeger leerde Sofía nieuwe woorden met kaartjes.",
+          "indicative.present": "Sofía leert nieuwe woorden met kaartjes.",
+          "indicative.present_perfect": "Vandaag heeft Sofía nieuwe woorden geleerd met kaartjes.",
+          "indicative.preterite": "Gisteren leerde Sofía nieuwe woorden met kaartjes."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "aprender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "barrer:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros {{answer}} el patio después de la fiesta.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana nosotros {{answer}} el patio después de la fiesta.",
+          "indicative.imperfect": "Antes nosotros {{answer}} el patio después de cada fiesta.",
+          "indicative.present": "Nosotros {{answer}} el patio después de la fiesta.",
+          "indicative.present_perfect": "Hoy nosotros {{answer}} el patio después de la fiesta.",
+          "indicative.preterite": "Ayer nosotros {{answer}} el patio después de la fiesta."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen wij de binnenplaats vegen na het feest.",
+          "indicative.imperfect": "Vroeger veegden wij de binnenplaats na elk feest.",
+          "indicative.present": "Wij vegen de binnenplaats na het feest.",
+          "indicative.present_perfect": "Vandaag hebben wij de binnenplaats geveegd na het feest.",
+          "indicative.preterite": "Gisteren veegden wij de binnenplaats na het feest."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "barrer"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "beber:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros no {{answer}} café por la noche.",
+        "spanishByFormId": {
+          "indicative.future": "Esta noche vosotros no {{answer}} café.",
+          "indicative.imperfect": "Antes vosotros no {{answer}} café por la noche.",
+          "indicative.present": "Vosotros no {{answer}} café por la noche.",
+          "indicative.present_perfect": "Esta semana vosotros no {{answer}} café por la noche.",
+          "indicative.preterite": "Anoche vosotros no {{answer}} café."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Vanavond zullen jullie geen koffie drinken.",
+          "indicative.imperfect": "Vroeger dronken jullie 's avonds geen koffie.",
+          "indicative.present": "Jullie drinken 's avonds geen koffie.",
+          "indicative.present_perfect": "Deze week hebben jullie 's avonds geen koffie gedronken.",
+          "indicative.preterite": "Gisteravond dronken jullie geen koffie."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "negative",
+    "verbId": "beber"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "comer:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Los estudiantes {{answer}} en la cafetería.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana los estudiantes {{answer}} en la cafetería.",
+          "indicative.imperfect": "Antes los estudiantes {{answer}} en la cafetería.",
+          "indicative.present": "Los estudiantes {{answer}} en la cafetería.",
+          "indicative.present_perfect": "Hoy los estudiantes {{answer}} en la cafetería.",
+          "indicative.preterite": "Ayer los estudiantes {{answer}} en la cafetería."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen de studenten in de kantine eten.",
+          "indicative.imperfect": "Vroeger aten de studenten in de kantine.",
+          "indicative.present": "De studenten eten in de kantine.",
+          "indicative.present_perfect": "Vandaag hebben de studenten in de kantine gegeten.",
+          "indicative.preterite": "Gisteren aten de studenten in de kantine."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "comer"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "comprender:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} las instrucciones del profesor.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} las instrucciones del profesor.",
+          "indicative.imperfect": "Antes yo {{answer}} las instrucciones del profesor.",
+          "indicative.present": "Yo {{answer}} las instrucciones del profesor.",
+          "indicative.present_perfect": "Hoy yo {{answer}} las instrucciones del profesor.",
+          "indicative.preterite": "Ayer yo {{answer}} las instrucciones del profesor."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik de instructies van de docent begrijpen.",
+          "indicative.imperfect": "Vroeger begreep ik de instructies van de docent.",
+          "indicative.present": "Ik begrijp de instructies van de docent.",
+          "indicative.present_perfect": "Vandaag heb ik de instructies van de docent begrepen.",
+          "indicative.preterite": "Gisteren begreep ik de instructies van de docent."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "comprender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "correr:basis_01",
+        "slotId": "2s",
+        "spanishBase": "¿Tú {{answer}} junto al río por la mañana?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana tú {{answer}} junto al río por la mañana?",
+          "indicative.imperfect": "¿Antes tú {{answer}} junto al río por la mañana?",
+          "indicative.present": "¿Tú {{answer}} junto al río por la mañana?",
+          "indicative.present_perfect": "¿Hoy tú {{answer}} junto al río por la mañana?",
+          "indicative.preterite": "¿Ayer tú {{answer}} junto al río por la mañana?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zul jij morgenochtend langs de rivier rennen?",
+          "indicative.imperfect": "Rende jij vroeger 's ochtends langs de rivier?",
+          "indicative.present": "Ren jij 's ochtends langs de rivier?",
+          "indicative.present_perfect": "Heb jij vanochtend langs de rivier gerend?",
+          "indicative.preterite": "Rende jij gisterochtend langs de rivier?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "correr"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "coser:basis_01",
+        "slotId": "3s",
+        "spanishBase": "Mi abuela {{answer}} botones en las camisas.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana mi abuela {{answer}} botones en las camisas.",
+          "indicative.imperfect": "Antes mi abuela {{answer}} botones en las camisas.",
+          "indicative.present": "Mi abuela {{answer}} botones en las camisas.",
+          "indicative.present_perfect": "Hoy mi abuela {{answer}} botones en las camisas.",
+          "indicative.preterite": "Ayer mi abuela {{answer}} botones en las camisas."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal mijn oma knopen aan de overhemden naaien.",
+          "indicative.imperfect": "Vroeger naaide mijn oma knopen aan de overhemden.",
+          "indicative.present": "Mijn oma naait knopen aan de overhemden.",
+          "indicative.present_perfect": "Vandaag heeft mijn oma knopen aan de overhemden genaaid.",
+          "indicative.preterite": "Gisteren naaide mijn oma knopen aan de overhemden."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "coser"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "deber:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros no {{answer}} dinero al banco.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año nosotros no {{answer}} dinero al banco.",
+          "indicative.imperfect": "Antes nosotros no {{answer}} dinero al banco.",
+          "indicative.present": "Nosotros no {{answer}} dinero al banco.",
+          "indicative.present_perfect": "Este año nosotros no {{answer}} dinero al banco en ningún momento.",
+          "indicative.preterite": "El año pasado nosotros no {{answer}} dinero al banco en ningún momento."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zullen wij de bank geen geld schuldig zijn.",
+          "indicative.imperfect": "Vroeger waren wij de bank geen geld schuldig.",
+          "indicative.present": "Wij zijn de bank geen geld schuldig.",
+          "indicative.present_perfect": "Dit jaar zijn wij de bank op geen enkel moment geld schuldig geweest.",
+          "indicative.preterite": "Vorig jaar waren wij de bank op geen enkel moment geld schuldig."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "negative",
+    "verbId": "deber"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "depender:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} del autobús para llegar al trabajo.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo mes vosotros {{answer}} del autobús para llegar al trabajo.",
+          "indicative.imperfect": "Antes vosotros {{answer}} del autobús para llegar al trabajo.",
+          "indicative.present": "Vosotros {{answer}} del autobús para llegar al trabajo.",
+          "indicative.present_perfect": "Este mes vosotros {{answer}} del autobús para llegar al trabajo.",
+          "indicative.preterite": "El mes pasado vosotros {{answer}} del autobús para llegar al trabajo."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende maand zullen jullie afhankelijk zijn van de bus om op het werk te komen.",
+          "indicative.imperfect": "Vroeger waren jullie afhankelijk van de bus om op het werk te komen.",
+          "indicative.present": "Jullie zijn afhankelijk van de bus om op het werk te komen.",
+          "indicative.present_perfect": "Deze maand zijn jullie afhankelijk geweest van de bus om op het werk te komen.",
+          "indicative.preterite": "Vorige maand waren jullie afhankelijk van de bus om op het werk te komen."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "depender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "esconder:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Los niños {{answer}} sus juguetes debajo de la cama.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana los niños {{answer}} sus juguetes debajo de la cama.",
+          "indicative.imperfect": "Antes los niños {{answer}} sus juguetes debajo de la cama.",
+          "indicative.present": "Los niños {{answer}} sus juguetes debajo de la cama.",
+          "indicative.present_perfect": "Hoy los niños {{answer}} sus juguetes debajo de la cama.",
+          "indicative.preterite": "Ayer los niños {{answer}} sus juguetes debajo de la cama."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen de kinderen hun speelgoed onder het bed verstoppen.",
+          "indicative.imperfect": "Vroeger verstopten de kinderen hun speelgoed onder het bed.",
+          "indicative.present": "De kinderen verstoppen hun speelgoed onder het bed.",
+          "indicative.present_perfect": "Vandaag hebben de kinderen hun speelgoed onder het bed verstopt.",
+          "indicative.preterite": "Gisteren verstopten de kinderen hun speelgoed onder het bed."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "esconder"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "meter:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} las llaves en el bolsillo de la chaqueta.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} las llaves en el bolsillo de la chaqueta.",
+          "indicative.imperfect": "Antes yo {{answer}} las llaves en el bolsillo de la chaqueta.",
+          "indicative.present": "Yo {{answer}} las llaves en el bolsillo de la chaqueta.",
+          "indicative.present_perfect": "Hoy yo {{answer}} las llaves en el bolsillo de la chaqueta.",
+          "indicative.preterite": "Ayer yo {{answer}} las llaves en el bolsillo de la chaqueta."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik de sleutels in de zak van de jas stoppen.",
+          "indicative.imperfect": "Vroeger stopte ik de sleutels in de zak van de jas.",
+          "indicative.present": "Ik stop de sleutels in de zak van de jas.",
+          "indicative.present_perfect": "Vandaag heb ik de sleutels in de zak van de jas gestopt.",
+          "indicative.preterite": "Gisteren stopte ik de sleutels in de zak van de jas."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "meter"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "ofender:basis_01",
+        "slotId": "2s",
+        "spanishBase": "Tú no {{answer}} a tus compañeros con tus palabras.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana tú no {{answer}} a tus compañeros con tus palabras.",
+          "indicative.imperfect": "Antes tú no {{answer}} a tus compañeros con tus palabras.",
+          "indicative.present": "Tú no {{answer}} a tus compañeros con tus palabras.",
+          "indicative.present_perfect": "Hoy tú no {{answer}} a tus compañeros con tus palabras.",
+          "indicative.preterite": "Ayer tú no {{answer}} a tus compañeros con tus palabras."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zul jij je collega's niet beledigen met je woorden.",
+          "indicative.imperfect": "Vroeger beledigde jij je collega's niet met je woorden.",
+          "indicative.present": "Jij beledigt je collega's niet met je woorden.",
+          "indicative.present_perfect": "Vandaag heb jij je collega's niet beledigd met je woorden.",
+          "indicative.preterite": "Gisteren beledigde jij je collega's niet met je woorden."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "negative",
+    "verbId": "ofender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "prometer:basis_01",
+        "slotId": "3s",
+        "spanishBase": "El alcalde {{answer}} más zonas verdes.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana el alcalde {{answer}} más zonas verdes.",
+          "indicative.imperfect": "Antes el alcalde {{answer}} más zonas verdes.",
+          "indicative.present": "El alcalde {{answer}} más zonas verdes.",
+          "indicative.present_perfect": "Hoy el alcalde {{answer}} más zonas verdes.",
+          "indicative.preterite": "Ayer el alcalde {{answer}} más zonas verdes."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal de burgemeester meer groenvoorzieningen beloven.",
+          "indicative.imperfect": "Vroeger beloofde de burgemeester meer groenvoorzieningen.",
+          "indicative.present": "De burgemeester belooft meer groenvoorzieningen.",
+          "indicative.present_perfect": "Vandaag heeft de burgemeester meer groenvoorzieningen beloofd.",
+          "indicative.preterite": "Gisteren beloofde de burgemeester meer groenvoorzieningen."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "prometer"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "responder:basis_01",
+        "slotId": "1p",
+        "spanishBase": "¿Nosotros {{answer}} a todas las preguntas del cliente?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana nosotros {{answer}} a todas las preguntas del cliente?",
+          "indicative.imperfect": "¿Antes nosotros {{answer}} a todas las preguntas del cliente?",
+          "indicative.present": "¿Nosotros {{answer}} a todas las preguntas del cliente?",
+          "indicative.present_perfect": "¿Hoy nosotros {{answer}} a todas las preguntas del cliente?",
+          "indicative.preterite": "¿Ayer nosotros {{answer}} a todas las preguntas del cliente?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zullen wij morgen alle vragen van de klant beantwoorden?",
+          "indicative.imperfect": "Beantwoordden wij vroeger alle vragen van de klant?",
+          "indicative.present": "Beantwoorden wij alle vragen van de klant?",
+          "indicative.present_perfect": "Hebben wij vandaag alle vragen van de klant beantwoord?",
+          "indicative.preterite": "Beantwoordden wij gisteren alle vragen van de klant?"
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "question",
+    "verbId": "responder"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "sorprender:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} a vuestra madre con flores.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana vosotros {{answer}} a vuestra madre con flores.",
+          "indicative.imperfect": "Antes vosotros {{answer}} a vuestra madre con flores.",
+          "indicative.present": "Vosotros {{answer}} a vuestra madre con flores.",
+          "indicative.present_perfect": "Hoy vosotros {{answer}} a vuestra madre con flores.",
+          "indicative.preterite": "Ayer vosotros {{answer}} a vuestra madre con flores."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen jullie jullie moeder met bloemen verrassen.",
+          "indicative.imperfect": "Vroeger verrasten jullie jullie moeder met bloemen.",
+          "indicative.present": "Jullie verrassen jullie moeder met bloemen.",
+          "indicative.present_perfect": "Vandaag hebben jullie jullie moeder met bloemen verrast.",
+          "indicative.preterite": "Gisteren verrasten jullie jullie moeder met bloemen."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "sorprender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "suceder:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Estas cosas no {{answer}} en nuestra escuela.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año estas cosas no {{answer}} en nuestra escuela.",
+          "indicative.imperfect": "Antes estas cosas no {{answer}} en nuestra escuela.",
+          "indicative.present": "Estas cosas no {{answer}} en nuestra escuela.",
+          "indicative.present_perfect": "Este año estas cosas no {{answer}} en nuestra escuela.",
+          "indicative.preterite": "El año pasado estas cosas no {{answer}} en nuestra escuela."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zullen deze dingen niet op onze school gebeuren.",
+          "indicative.imperfect": "Vroeger gebeurden deze dingen niet op onze school.",
+          "indicative.present": "Deze dingen gebeuren niet op onze school.",
+          "indicative.present_perfect": "Dit jaar zijn deze dingen niet op onze school gebeurd.",
+          "indicative.preterite": "Vorig jaar gebeurden deze dingen niet op onze school."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "negative",
+    "verbId": "suceder"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "temer:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} una subida de los precios.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo mes yo {{answer}} una subida de los precios.",
+          "indicative.imperfect": "Antes yo {{answer}} una subida de los precios.",
+          "indicative.present": "Yo {{answer}} una subida de los precios.",
+          "indicative.present_perfect": "Este mes yo {{answer}} una subida de los precios.",
+          "indicative.preterite": "El mes pasado yo {{answer}} una subida de los precios."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende maand zal ik een prijsstijging vrezen.",
+          "indicative.imperfect": "Vroeger vreesde ik een prijsstijging.",
+          "indicative.present": "Ik vrees een prijsstijging.",
+          "indicative.present_perfect": "Deze maand heb ik een prijsstijging gevreesd.",
+          "indicative.preterite": "Vorige maand vreesde ik een prijsstijging."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "temer"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "toser:basis_01",
+        "slotId": "2s",
+        "spanishBase": "¿Tú {{answer}} mucho por la noche?",
+        "spanishByFormId": {
+          "indicative.future": "¿Esta noche tú {{answer}} mucho?",
+          "indicative.imperfect": "¿Antes tú {{answer}} mucho por la noche?",
+          "indicative.present": "¿Tú {{answer}} mucho por la noche?",
+          "indicative.present_perfect": "¿Esta semana tú {{answer}} mucho por la noche?",
+          "indicative.preterite": "¿Anoche tú {{answer}} mucho?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zul jij vannacht veel hoesten?",
+          "indicative.imperfect": "Hoestte jij vroeger 's nachts veel?",
+          "indicative.present": "Hoest jij 's nachts veel?",
+          "indicative.present_perfect": "Heb jij deze week 's nachts veel gehoest?",
+          "indicative.preterite": "Hoestte jij vannacht veel?"
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "question",
+    "verbId": "toser"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "vender:basis_01",
+        "slotId": "3s",
+        "spanishBase": "La panadera {{answer}} pan en el mercado.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana la panadera {{answer}} pan en el mercado.",
+          "indicative.imperfect": "Antes la panadera {{answer}} pan en el mercado.",
+          "indicative.present": "La panadera {{answer}} pan en el mercado.",
+          "indicative.present_perfect": "Hoy la panadera {{answer}} pan en el mercado.",
+          "indicative.preterite": "Ayer la panadera {{answer}} pan en el mercado."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal de bakkerin brood op de markt verkopen.",
+          "indicative.imperfect": "Vroeger verkocht de bakkerin brood op de markt.",
+          "indicative.present": "De bakkerin verkoopt brood op de markt.",
+          "indicative.present_perfect": "Vandaag heeft de bakkerin brood op de markt verkocht.",
+          "indicative.preterite": "Gisteren verkocht de bakkerin brood op de markt."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "statement",
+    "verbId": "vender"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "atreverse:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros no {{answer}} a hablar en público.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana nosotros no {{answer}} a hablar en público.",
+          "indicative.imperfect": "Antes nosotros no {{answer}} a hablar en público.",
+          "indicative.present": "Nosotros no {{answer}} a hablar en público.",
+          "indicative.present_perfect": "Hoy nosotros no {{answer}} a hablar en público.",
+          "indicative.preterite": "Ayer nosotros no {{answer}} a hablar en público."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen wij niet in het openbaar durven spreken.",
+          "indicative.imperfect": "Vroeger durfden wij niet in het openbaar te spreken.",
+          "indicative.present": "Wij durven niet in het openbaar te spreken.",
+          "indicative.present_perfect": "Vandaag hebben wij niet in het openbaar durven spreken.",
+          "indicative.preterite": "Gisteren durfden wij niet in het openbaar te spreken."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "negative",
+    "verbId": "atreverse"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "vivir:basis_01",
+        "slotId": "2p",
+        "spanishBase": "¿Vosotros {{answer}} cerca de la estación?",
+        "spanishByFormId": {
+          "indicative.future": "¿El próximo año vosotros {{answer}} cerca de la estación?",
+          "indicative.imperfect": "¿Antes vosotros {{answer}} cerca de la estación?",
+          "indicative.present": "¿Vosotros {{answer}} cerca de la estación?",
+          "indicative.present_perfect": "¿Este año vosotros {{answer}} cerca de la estación?",
+          "indicative.preterite": "¿El año pasado vosotros {{answer}} cerca de la estación?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zullen jullie volgend jaar dicht bij het station wonen?",
+          "indicative.imperfect": "Woonden jullie vroeger dicht bij het station?",
+          "indicative.present": "Wonen jullie dicht bij het station?",
+          "indicative.present_perfect": "Hebben jullie dit jaar dicht bij het station gewoond?",
+          "indicative.preterite": "Woonden jullie vorig jaar dicht bij het station?"
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "question",
+    "verbId": "vivir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "recibir:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Mis padres {{answer}} cartas de sus amigos.",
+        "spanishByFormId": {
+          "indicative.future": "La próxima semana mis padres {{answer}} cartas de sus amigos.",
+          "indicative.imperfect": "Antes mis padres {{answer}} cartas de sus amigos.",
+          "indicative.present": "Mis padres {{answer}} cartas de sus amigos.",
+          "indicative.present_perfect": "Esta semana mis padres {{answer}} cartas de sus amigos.",
+          "indicative.preterite": "La semana pasada mis padres {{answer}} cartas de sus amigos."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende week zullen mijn ouders brieven van hun vrienden ontvangen.",
+          "indicative.imperfect": "Vroeger ontvingen mijn ouders brieven van hun vrienden.",
+          "indicative.present": "Mijn ouders ontvangen brieven van hun vrienden.",
+          "indicative.present_perfect": "Deze week hebben mijn ouders brieven van hun vrienden ontvangen.",
+          "indicative.preterite": "Vorige week ontvingen mijn ouders brieven van hun vrienden."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "recibir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "compartir:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} piso con dos estudiantes.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año yo {{answer}} piso con dos estudiantes.",
+          "indicative.imperfect": "Antes yo {{answer}} piso con dos estudiantes.",
+          "indicative.present": "Yo {{answer}} piso con dos estudiantes.",
+          "indicative.present_perfect": "Este año yo {{answer}} piso con dos estudiantes.",
+          "indicative.preterite": "El año pasado yo {{answer}} piso con dos estudiantes."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zal ik een appartement delen met twee studenten.",
+          "indicative.imperfect": "Vroeger deelde ik een appartement met twee studenten.",
+          "indicative.present": "Ik deel een appartement met twee studenten.",
+          "indicative.present_perfect": "Dit jaar heb ik een appartement gedeeld met twee studenten.",
+          "indicative.preterite": "Vorig jaar deelde ik een appartement met twee studenten."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "compartir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "subir:basis_01",
+        "slotId": "2s",
+        "spanishBase": "Tú no {{answer}} al quinto piso por las escaleras.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana tú no {{answer}} al quinto piso por las escaleras.",
+          "indicative.imperfect": "Antes tú no {{answer}} al quinto piso por las escaleras.",
+          "indicative.present": "Tú no {{answer}} al quinto piso por las escaleras.",
+          "indicative.present_perfect": "Hoy tú no {{answer}} al quinto piso por las escaleras.",
+          "indicative.preterite": "Ayer tú no {{answer}} al quinto piso por las escaleras."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zul jij niet via de trap naar de vijfde verdieping gaan.",
+          "indicative.imperfect": "Vroeger ging jij niet via de trap naar de vijfde verdieping.",
+          "indicative.present": "Jij gaat niet via de trap naar de vijfde verdieping.",
+          "indicative.present_perfect": "Vandaag ben jij niet via de trap naar de vijfde verdieping gegaan.",
+          "indicative.preterite": "Gisteren ging jij niet via de trap naar de vijfde verdieping."
+        }
+      }
+    ],
+    "level": "A1",
+    "sentenceType": "negative",
+    "verbId": "subir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "decidir:basis_01",
+        "slotId": "3s",
+        "spanishBase": "El equipo {{answer}} la fecha de la reunión.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana el equipo {{answer}} la fecha de la reunión.",
+          "indicative.imperfect": "Antes el equipo {{answer}} la fecha de cada reunión.",
+          "indicative.present": "El equipo {{answer}} la fecha de la reunión.",
+          "indicative.present_perfect": "Hoy el equipo {{answer}} la fecha de la reunión.",
+          "indicative.preterite": "Ayer el equipo {{answer}} la fecha de la reunión."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal het team de datum van de vergadering bepalen.",
+          "indicative.imperfect": "Vroeger bepaalde het team de datum van elke vergadering.",
+          "indicative.present": "Het team bepaalt de datum van de vergadering.",
+          "indicative.present_perfect": "Vandaag heeft het team de datum van de vergadering bepaald.",
+          "indicative.preterite": "Gisteren bepaalde het team de datum van de vergadering."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "decidir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "permitir:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros no {{answer}} el uso del móvil en clase.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana nosotros no {{answer}} el uso del móvil en clase.",
+          "indicative.imperfect": "Antes nosotros no {{answer}} el uso del móvil en clase.",
+          "indicative.present": "Nosotros no {{answer}} el uso del móvil en clase.",
+          "indicative.present_perfect": "Hoy nosotros no {{answer}} el uso del móvil en clase.",
+          "indicative.preterite": "Ayer nosotros no {{answer}} el uso del móvil en clase."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen wij het gebruik van de telefoon in de les niet toestaan.",
+          "indicative.imperfect": "Vroeger stonden wij het gebruik van de telefoon in de les niet toe.",
+          "indicative.present": "Wij staan het gebruik van de telefoon in de les niet toe.",
+          "indicative.present_perfect": "Vandaag hebben wij het gebruik van de telefoon in de les niet toegestaan.",
+          "indicative.preterite": "Gisteren stonden wij het gebruik van de telefoon in de les niet toe."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "negative",
+    "verbId": "permitir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "cumplir:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} los plazos del proyecto.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo mes vosotros {{answer}} los plazos del proyecto.",
+          "indicative.imperfect": "Antes vosotros {{answer}} los plazos del proyecto.",
+          "indicative.present": "Vosotros {{answer}} los plazos del proyecto.",
+          "indicative.present_perfect": "Este mes vosotros {{answer}} los plazos del proyecto.",
+          "indicative.preterite": "El mes pasado vosotros {{answer}} los plazos del proyecto."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende maand zullen jullie je aan de deadlines van het project houden.",
+          "indicative.imperfect": "Vroeger hielden jullie je aan de deadlines van het project.",
+          "indicative.present": "Jullie houden je aan de deadlines van het project.",
+          "indicative.present_perfect": "Deze maand hebben jullie je aan de deadlines van het project gehouden.",
+          "indicative.preterite": "Vorige maand hielden jullie je aan de deadlines van het project."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "cumplir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "asistir:basis_01",
+        "slotId": "3p",
+        "spanishBase": "¿Los vecinos {{answer}} a las reuniones del barrio?",
+        "spanishByFormId": {
+          "indicative.future": "¿El próximo mes los vecinos {{answer}} a las reuniones del barrio?",
+          "indicative.imperfect": "¿Antes los vecinos {{answer}} a las reuniones del barrio?",
+          "indicative.present": "¿Los vecinos {{answer}} a las reuniones del barrio?",
+          "indicative.present_perfect": "¿Este mes los vecinos {{answer}} a las reuniones del barrio?",
+          "indicative.preterite": "¿El mes pasado los vecinos {{answer}} a las reuniones del barrio?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zullen de buren volgende maand de buurtvergaderingen bijwonen?",
+          "indicative.imperfect": "Woonden de buren vroeger de buurtvergaderingen bij?",
+          "indicative.present": "Wonen de buren de buurtvergaderingen bij?",
+          "indicative.present_perfect": "Hebben de buren deze maand de buurtvergaderingen bijgewoond?",
+          "indicative.preterite": "Woonden de buren vorige maand de buurtvergaderingen bij?"
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "question",
+    "verbId": "asistir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "admitir:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} mis errores ante mis compañeros.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} mis errores ante mis compañeros.",
+          "indicative.imperfect": "Antes yo {{answer}} mis errores ante mis compañeros.",
+          "indicative.present": "Yo {{answer}} mis errores ante mis compañeros.",
+          "indicative.present_perfect": "Hoy yo {{answer}} mis errores ante mis compañeros.",
+          "indicative.preterite": "Ayer yo {{answer}} mis errores ante mis compañeros."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik mijn fouten toegeven tegenover mijn collega's.",
+          "indicative.imperfect": "Vroeger gaf ik mijn fouten toe tegenover mijn collega's.",
+          "indicative.present": "Ik geef mijn fouten toe tegenover mijn collega's.",
+          "indicative.present_perfect": "Vandaag heb ik mijn fouten toegegeven tegenover mijn collega's.",
+          "indicative.preterite": "Gisteren gaf ik mijn fouten toe tegenover mijn collega's."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "admitir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "añadir:basis_01",
+        "slotId": "2s",
+        "spanishBase": "Tú {{answer}} un poco de sal a la sopa.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana tú {{answer}} un poco de sal a la sopa.",
+          "indicative.imperfect": "Antes tú {{answer}} un poco de sal a la sopa.",
+          "indicative.present": "Tú {{answer}} un poco de sal a la sopa.",
+          "indicative.present_perfect": "Hoy tú {{answer}} un poco de sal a la sopa.",
+          "indicative.preterite": "Ayer tú {{answer}} un poco de sal a la sopa."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zul jij een beetje zout aan de soep toevoegen.",
+          "indicative.imperfect": "Vroeger voegde jij een beetje zout aan de soep toe.",
+          "indicative.present": "Jij voegt een beetje zout aan de soep toe.",
+          "indicative.present_perfect": "Vandaag heb jij een beetje zout aan de soep toegevoegd.",
+          "indicative.preterite": "Gisteren voegde jij een beetje zout aan de soep toe."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "añadir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "consumir:basis_01",
+        "slotId": "3s",
+        "spanishBase": "Esta máquina no {{answer}} mucha electricidad.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana esta máquina no {{answer}} mucha electricidad.",
+          "indicative.imperfect": "Antes esta máquina no {{answer}} mucha electricidad.",
+          "indicative.present": "Esta máquina no {{answer}} mucha electricidad.",
+          "indicative.present_perfect": "Hoy esta máquina no {{answer}} mucha electricidad.",
+          "indicative.preterite": "Ayer esta máquina no {{answer}} mucha electricidad."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal deze machine niet veel stroom verbruiken.",
+          "indicative.imperfect": "Vroeger verbruikte deze machine niet veel stroom.",
+          "indicative.present": "Deze machine verbruikt niet veel stroom.",
+          "indicative.present_perfect": "Vandaag heeft deze machine niet veel stroom verbruikt.",
+          "indicative.preterite": "Gisteren verbruikte deze machine niet veel stroom."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "negative",
+    "verbId": "consumir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "unir:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros {{answer}} las piezas con pegamento.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana nosotros {{answer}} las piezas con pegamento.",
+          "indicative.imperfect": "Antes nosotros {{answer}} las piezas con pegamento.",
+          "indicative.present": "Nosotros {{answer}} las piezas con pegamento.",
+          "indicative.present_perfect": "Hoy nosotros {{answer}} las piezas con pegamento.",
+          "indicative.preterite": "Ayer nosotros {{answer}} las piezas con pegamento."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen wij de onderdelen met lijm verbinden.",
+          "indicative.imperfect": "Vroeger verbonden wij de onderdelen met lijm.",
+          "indicative.present": "Wij verbinden de onderdelen met lijm.",
+          "indicative.present_perfect": "Vandaag hebben wij de onderdelen met lijm verbonden.",
+          "indicative.preterite": "Gisteren verbonden wij de onderdelen met lijm."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "unir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "sufrir:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} las consecuencias de la sequía.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año vosotros {{answer}} las consecuencias de la sequía.",
+          "indicative.imperfect": "Antes vosotros {{answer}} las consecuencias de la sequía.",
+          "indicative.present": "Vosotros {{answer}} las consecuencias de la sequía.",
+          "indicative.present_perfect": "Este año vosotros {{answer}} las consecuencias de la sequía.",
+          "indicative.preterite": "El año pasado vosotros {{answer}} las consecuencias de la sequía."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zullen jullie de gevolgen van de droogte ondervinden.",
+          "indicative.imperfect": "Vroeger ondervonden jullie de gevolgen van de droogte.",
+          "indicative.present": "Jullie ondervinden de gevolgen van de droogte.",
+          "indicative.present_perfect": "Dit jaar hebben jullie de gevolgen van de droogte ondervonden.",
+          "indicative.preterite": "Vorig jaar ondervonden jullie de gevolgen van de droogte."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "sufrir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "insistir:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Los profesores {{answer}} en la importancia de practicar.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana los profesores {{answer}} en la importancia de practicar.",
+          "indicative.imperfect": "Antes los profesores {{answer}} en la importancia de practicar.",
+          "indicative.present": "Los profesores {{answer}} en la importancia de practicar.",
+          "indicative.present_perfect": "Hoy los profesores {{answer}} en la importancia de practicar.",
+          "indicative.preterite": "Ayer los profesores {{answer}} en la importancia de practicar."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zullen de docenten het belang van oefenen benadrukken.",
+          "indicative.imperfect": "Vroeger benadrukten de docenten het belang van oefenen.",
+          "indicative.present": "De docenten benadrukken het belang van oefenen.",
+          "indicative.present_perfect": "Vandaag hebben de docenten het belang van oefenen benadrukt.",
+          "indicative.preterite": "Gisteren benadrukten de docenten het belang van oefenen."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "insistir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "sacudir:basis_01",
+        "slotId": "1s",
+        "spanishBase": "Yo {{answer}} la alfombra en el balcón.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana yo {{answer}} la alfombra en el balcón.",
+          "indicative.imperfect": "Antes yo {{answer}} la alfombra en el balcón.",
+          "indicative.present": "Yo {{answer}} la alfombra en el balcón.",
+          "indicative.present_perfect": "Hoy yo {{answer}} la alfombra en el balcón.",
+          "indicative.preterite": "Ayer yo {{answer}} la alfombra en el balcón."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal ik het kleed uitkloppen op het balkon.",
+          "indicative.imperfect": "Vroeger klopte ik het kleed uit op het balkon.",
+          "indicative.present": "Ik klop het kleed uit op het balkon.",
+          "indicative.present_perfect": "Vandaag heb ik het kleed uitgeklopt op het balkon.",
+          "indicative.preterite": "Gisteren klopte ik het kleed uit op het balkon."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "sacudir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "aplaudir:basis_01",
+        "slotId": "2s",
+        "spanishBase": "¿Tú {{answer}} al final del concierto?",
+        "spanishByFormId": {
+          "indicative.future": "¿Mañana tú {{answer}} al final del concierto?",
+          "indicative.imperfect": "¿Antes tú {{answer}} al final de cada concierto?",
+          "indicative.present": "¿Tú {{answer}} al final del concierto?",
+          "indicative.present_perfect": "¿Hoy tú {{answer}} al final del concierto?",
+          "indicative.preterite": "¿Ayer tú {{answer}} al final del concierto?"
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Zul jij morgen aan het einde van het concert applaudisseren?",
+          "indicative.imperfect": "Applaudisseerde jij vroeger aan het einde van elk concert?",
+          "indicative.present": "Applaudisseer jij aan het einde van het concert?",
+          "indicative.present_perfect": "Heb jij vandaag aan het einde van het concert geapplaudisseerd?",
+          "indicative.preterite": "Applaudisseerde jij gisteren aan het einde van het concert?"
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "question",
+    "verbId": "aplaudir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "batir:basis_01",
+        "slotId": "3s",
+        "spanishBase": "El cocinero {{answer}} los huevos con un tenedor.",
+        "spanishByFormId": {
+          "indicative.future": "Mañana el cocinero {{answer}} los huevos con un tenedor.",
+          "indicative.imperfect": "Antes el cocinero {{answer}} los huevos con un tenedor.",
+          "indicative.present": "El cocinero {{answer}} los huevos con un tenedor.",
+          "indicative.present_perfect": "Hoy el cocinero {{answer}} los huevos con un tenedor.",
+          "indicative.preterite": "Ayer el cocinero {{answer}} los huevos con un tenedor."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Morgen zal de kok de eieren met een vork kloppen.",
+          "indicative.imperfect": "Vroeger klopte de kok de eieren met een vork.",
+          "indicative.present": "De kok klopt de eieren met een vork.",
+          "indicative.present_perfect": "Vandaag heeft de kok de eieren met een vork geklopt.",
+          "indicative.preterite": "Gisteren klopte de kok de eieren met een vork."
+        }
+      }
+    ],
+    "level": "A2",
+    "sentenceType": "statement",
+    "verbId": "batir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "combatir:basis_01",
+        "slotId": "1p",
+        "spanishBase": "Nosotros {{answer}} el desperdicio de alimentos en el comedor.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo mes nosotros {{answer}} el desperdicio de alimentos en el comedor.",
+          "indicative.imperfect": "Antes nosotros {{answer}} el desperdicio de alimentos en el comedor.",
+          "indicative.present": "Nosotros {{answer}} el desperdicio de alimentos en el comedor.",
+          "indicative.present_perfect": "Este mes nosotros {{answer}} el desperdicio de alimentos en el comedor.",
+          "indicative.preterite": "El mes pasado nosotros {{answer}} el desperdicio de alimentos en el comedor."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende maand zullen wij voedselverspilling in de kantine bestrijden.",
+          "indicative.imperfect": "Vroeger bestreden wij voedselverspilling in de kantine.",
+          "indicative.present": "Wij bestrijden voedselverspilling in de kantine.",
+          "indicative.present_perfect": "Deze maand hebben wij voedselverspilling in de kantine bestreden.",
+          "indicative.preterite": "Vorige maand bestreden wij voedselverspilling in de kantine."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "combatir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "sobrevivir:basis_01",
+        "slotId": "2p",
+        "spanishBase": "Vosotros {{answer}} sin internet durante las vacaciones.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo verano vosotros {{answer}} sin internet durante las vacaciones.",
+          "indicative.imperfect": "Antes vosotros {{answer}} sin internet durante las vacaciones.",
+          "indicative.present": "Vosotros {{answer}} sin internet durante las vacaciones.",
+          "indicative.present_perfect": "Este verano vosotros {{answer}} sin internet durante las vacaciones.",
+          "indicative.preterite": "El verano pasado vosotros {{answer}} sin internet durante las vacaciones."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgende zomer zullen jullie je zonder internet redden tijdens de vakantie.",
+          "indicative.imperfect": "Vroeger redden jullie je zonder internet tijdens de vakantie.",
+          "indicative.present": "Jullie redden je zonder internet tijdens de vakantie.",
+          "indicative.present_perfect": "Deze zomer hebben jullie je zonder internet gered tijdens de vakantie.",
+          "indicative.preterite": "Afgelopen zomer redden jullie je zonder internet tijdens de vakantie."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "sobrevivir"
+  },
+  {
+    "contexts": [
+      {
+        "exerciseKind": "finite",
+        "id": "exhibir:basis_01",
+        "slotId": "3p",
+        "spanishBase": "Los museos {{answer}} obras de artistas locales.",
+        "spanishByFormId": {
+          "indicative.future": "El próximo año los museos {{answer}} obras de artistas locales.",
+          "indicative.imperfect": "Antes los museos {{answer}} obras de artistas locales.",
+          "indicative.present": "Los museos {{answer}} obras de artistas locales.",
+          "indicative.present_perfect": "Este año los museos {{answer}} obras de artistas locales.",
+          "indicative.preterite": "El año pasado los museos {{answer}} obras de artistas locales."
+        },
+        "supportedFormIds": [
+          "indicative.present",
+          "indicative.preterite",
+          "indicative.imperfect",
+          "indicative.present_perfect",
+          "indicative.future"
+        ],
+        "translationsNl": {
+          "indicative.future": "Volgend jaar zullen de musea werken van plaatselijke kunstenaars tentoonstellen.",
+          "indicative.imperfect": "Vroeger stelden de musea werken van plaatselijke kunstenaars tentoon.",
+          "indicative.present": "De musea stellen werken van plaatselijke kunstenaars tentoon.",
+          "indicative.present_perfect": "Dit jaar hebben de musea werken van plaatselijke kunstenaars tentoongesteld.",
+          "indicative.preterite": "Vorig jaar stelden de musea werken van plaatselijke kunstenaars tentoon."
+        }
+      }
+    ],
+    "level": "B1",
+    "sentenceType": "statement",
+    "verbId": "exhibir"
+  }
+]
