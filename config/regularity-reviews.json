@@ -1,286 +1,1570 @@
 {
-  "ser": {
+  "abandonar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abandonar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abandonar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "abordar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abordar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abordar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "abortar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abortar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abortar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "abrazar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abrazar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abrazar",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "estar": {
+  "abrir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abrir",
+    "evidence": "Stored paradigm differs from the regular reference in 49 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abrir",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "ir": {
+  "aburrir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aburrir",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aburrir",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aburrirse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aburrirse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aburrirse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "abusar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abusar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/abusar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "acabar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acabar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acabar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "acampar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acampar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acampar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aceptar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aceptar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aceptar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "acercar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acercar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acercar",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "tener": {
+  "acercarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acercarse",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acercarse",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "hacer": {
+  "acompañar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acompañar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acompañar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aconsejar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aconsejar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aconsejar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "acostarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostarse",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostarse",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "decir": {
+  "acostumbrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostumbrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostumbrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "acostumbrarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostumbrarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/acostumbrarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "actuar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/actuar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/actuar",
     "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "poder": {
-    "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "querer": {
-    "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "venir": {
-    "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "poner": {
-    "isIrregularVerb": true,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "hablar": {
+  "adivinar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adivinar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adivinar",
     "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "comer": {
+  "admirar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/admirar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/admirar",
     "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "vivir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "trabajar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "estudiar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "levantarse": {
-    "isIrregularVerb": false,
-    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md"
-  },
-  "comprar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "cocinar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "escuchar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "mirar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "caminar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "viajar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "visitar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "ayudar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "limpiar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "lavar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "preparar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "desayunar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "cenar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "bailar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "nadar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "pintar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "preguntar": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "aprender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "barrer": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "beber": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "comprender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "correr": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "coser": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "deber": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "depender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "esconder": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "meter": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "ofender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "prometer": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "responder": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "sorprender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "suceder": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "temer": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "toser": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "vender": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "atreverse": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "recibir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "compartir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "subir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "decidir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "permitir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "cumplir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
-  },
-  "asistir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
   "admitir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
   },
-  "añadir": {
+  "adorar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adorar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adorar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "consumir": {
+  "adornar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adornar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/adornar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "unir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+  "advertir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/advertir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/advertir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "sufrir": {
+  "afeitar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afeitar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afeitar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "insistir": {
+  "afeitarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afeitarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afeitarse",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
-  "sacudir": {
+  "afirmar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afirmar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afirmar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "afligir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afligir",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/afligir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "agorar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agorar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agorar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "agradar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agradar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agradar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "agradecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agradecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/agradecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aguantar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aguantar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aguantar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ahorcar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ahorcar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ahorcar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ahorrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ahorrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ahorrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "alcanzar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alcanzar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alcanzar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "alegrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alegrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alegrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "alegrarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alegrarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alegrarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "alentar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alentar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/alentar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aliviar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aliviar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aliviar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aparecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aparecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aparecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
   "aplaudir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "aplicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aplicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aplicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "apostar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apostar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apostar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "apoyar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apoyar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apoyar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "apreciar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apreciar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apreciar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aprender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "apretar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apretar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/apretar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aprobar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aprobar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aprobar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "arreglar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arreglar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arreglar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "arrepentirse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arrepentirse",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arrepentirse",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "arrojar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arrojar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/arrojar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "asegurar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asegurar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asegurar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "asistir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "asociar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asociar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asociar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "aspirar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aspirar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aspirar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "asustar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asustar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/asustar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "atreverse": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "aumentar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aumentar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/aumentar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "avanzar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/avanzar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/avanzar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "averiguar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/averiguar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/averiguar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "avisar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/avisar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/avisar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ayudar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "añadir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "bailar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "bajar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bajar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bajar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "barrer": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
   },
   "batir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "bautizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bautizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bautizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "bañar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bañar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bañar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "bañarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bañarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/bañarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "beber": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "buscar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/buscar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/buscar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cambiar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cambiar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cambiar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "caminar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "cancelar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cancelar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cancelar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cansar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cansar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cansar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cansarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cansarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cansarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "caracterizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/caracterizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/caracterizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cazar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cazar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cazar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "celebrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/celebrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/celebrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cenar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "censurar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/censurar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/censurar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cepillar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cepillar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cepillar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "civilizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/civilizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/civilizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "clarificar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/clarificar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/clarificar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "clasificar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/clasificar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/clasificar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cobrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cobrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cobrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cocinar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "coger": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/coger",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/coger",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "colgar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colgar",
+    "evidence": "Stored paradigm differs from the regular reference in 20 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colgar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "colocar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colocar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colocar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "colonizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colonizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/colonizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
   "combatir": {
-    "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
   },
-  "sobrevivir": {
+  "comenzar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comenzar",
+    "evidence": "Stored paradigm differs from the regular reference in 20 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comenzar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "comer": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "compartir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "competir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/competir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/competir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "componer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/componer",
+    "evidence": "Stored paradigm differs from the regular reference in 101 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/componer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "comprar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "comprender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "comunicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comunicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comunicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "comunicarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comunicarse",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/comunicarse",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "condenar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/condenar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/condenar",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "conocer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conocer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conocer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "conseguir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conseguir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conseguir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "conservar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conservar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/conservar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "considerar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/considerar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/considerar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "consistir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/consistir",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/consistir",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "constituir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/constituir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/constituir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "construir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/construir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/construir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "consumir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "contar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/contar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/contar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "convertir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/convertir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/convertir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "convidar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/convidar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/convidar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "copiar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/copiar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/copiar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "corregir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/corregir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/corregir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "correr": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "cortar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cortar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/cortar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "coser": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "costar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/costar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/costar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "crear": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/crear",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/crear",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "crecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/crecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/crecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "creer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/creer",
+    "evidence": "Stored paradigm differs from the regular reference in 73 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/creer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "cumplir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "curar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/curar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/curar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "dar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dar",
+    "evidence": "Stored paradigm differs from the regular reference in 32 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "deber": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "decidir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "decir": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "dedicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dedicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dedicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "dedicarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dedicarse",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dedicarse",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "defender": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/defender",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/defender",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "dejar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dejar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dejar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "demostrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/demostrar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/demostrar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "depender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "desaparecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desaparecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desaparecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "desarrollar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desarrollar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desarrollar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "desarrollarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desarrollarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/desarrollarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "desayunar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "descansar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/descansar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/descansar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "destacar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/destacar",
+    "evidence": "Stored paradigm differs from the regular reference in 10 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/destacar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "determinar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/determinar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/determinar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "dirigir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dirigir",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/dirigir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "disponer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/disponer",
+    "evidence": "Stored paradigm differs from the regular reference in 102 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/disponer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "empezar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/empezar",
+    "evidence": "Stored paradigm differs from the regular reference in 20 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/empezar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "encontrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/encontrar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/encontrar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "entrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/entrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/entrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "equivocar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/equivocar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/equivocar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "equivocarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/equivocarse",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/equivocarse",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "errar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/errar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/errar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "escoger": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/escoger",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/escoger",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "esconder": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "esconderse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esconderse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esconderse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "escribir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/escribir",
+    "evidence": "Stored paradigm differs from the regular reference in 49 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/escribir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "escuchar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "esperar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esperar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esperar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "esquiar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esquiar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/esquiar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "establecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/establecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/establecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "estar": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "estimar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/estimar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/estimar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "estudiar": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "evacuar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/evacuar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/evacuar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "evitar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/evitar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/evitar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   },
   "exhibir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "exigir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/exigir",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/exigir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "existir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/existir",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/existir",
     "isIrregularVerb": false,
-    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering."
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "explicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/explicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/explicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "explorar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/explorar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/explorar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "formar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/formar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/formar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ganar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ganar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ganar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "gustar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/gustar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/gustar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "hablar": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "hacer": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "incluir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/incluir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/incluir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "indicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/indicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/indicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "inmigrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/inmigrar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/inmigrar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "insistir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "instalar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/instalar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/instalar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "insultar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/insultar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/insultar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "intentar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/intentar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/intentar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ir": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "jugar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/jugar",
+    "evidence": "Stored paradigm differs from the regular reference in 20 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/jugar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "lavar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "lavarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/lavarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/lavarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "leer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/leer",
+    "evidence": "Stored paradigm differs from the regular reference in 73 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/leer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "legalizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/legalizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/legalizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "levantar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/levantar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/levantar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "levantarse": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "limpiar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "llamar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llamar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llamar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "llamarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llamarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llamarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "llegar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llegar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llegar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "llevar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llevar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/llevar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "lograr": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/lograr",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/lograr",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mantener": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mantener",
+    "evidence": "Stored paradigm differs from the regular reference in 55 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mantener",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mejorar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mejorar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mejorar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "merendar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/merendar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/merendar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "meter": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "mezclar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mezclar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mezclar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mirar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "modificar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/modificar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/modificar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mostrar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mostrar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mostrar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "moverse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/moverse",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/moverse",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mudar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mudar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mudar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "mudarse": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mudarse",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/mudarse",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "nacer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/nacer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/nacer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "nadar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "necesitar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/necesitar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/necesitar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "obtener": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/obtener",
+    "evidence": "Stored paradigm differs from the regular reference in 55 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/obtener",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ofender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "ofrecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ofrecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ofrecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "organizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/organizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/organizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "parecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/parecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/parecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "participar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/participar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/participar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "partir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/partir",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/partir",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pasar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pasar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pasar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pedir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pedir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pedir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pensar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pensar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pensar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "perder": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perder",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perder",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "perdonar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perdonar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perdonar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "permanecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/permanecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/permanecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "permitir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "perseguir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perseguir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/perseguir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pertenecer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pertenecer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pertenecer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pesar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pesar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/pesar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "pintar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "poder": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "poner": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "preguntar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "preparar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "presentar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/presentar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/presentar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "producir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/producir",
+    "evidence": "Stored paradigm differs from the regular reference in 39 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/producir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "prometer": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "publicar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/publicar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/publicar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "quedar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/quedar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/quedar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "querer": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "realizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/realizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/realizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "recibir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "reconocer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/reconocer",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/reconocer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "recordar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/recordar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/recordar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "reducir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/reducir",
+    "evidence": "Stored paradigm differs from the regular reference in 39 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/reducir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "relacionar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/relacionar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/relacionar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "responder": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "resultar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/resultar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/resultar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "saber": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/saber",
+    "evidence": "Stored paradigm differs from the regular reference in 51 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/saber",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "sacudir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "salir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/salir",
+    "evidence": "Stored paradigm differs from the regular reference in 28 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/salir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "seguir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/seguir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/seguir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "ser": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "servir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/servir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/servir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "señalar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/señalar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/señalar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "situar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/situar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/situar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "sobrevivir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "sorprender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "soñar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/soñar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/soñar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "subir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "suceder": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "sufrir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "sugerir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/sugerir",
+    "evidence": "Stored paradigm differs from the regular reference in 40 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/sugerir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "suponer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/suponer",
+    "evidence": "Stored paradigm differs from the regular reference in 101 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/suponer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "tardar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tardar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tardar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "tañer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tañer",
+    "evidence": "Stored paradigm differs from the regular reference in 21 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tañer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "temer": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "tener": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "terminar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/terminar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/terminar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "tomar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tomar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tomar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "toser": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "trabajar": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "traducir": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/traducir",
+    "evidence": "Stored paradigm differs from the regular reference in 39 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/traducir",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "traer": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/traer",
+    "evidence": "Stored paradigm differs from the regular reference in 89 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/traer",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "tragar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tragar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tragar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "tratar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tratar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/tratar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "unir": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "usar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/usar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/usar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "utilizar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/utilizar",
+    "evidence": "Stored paradigm differs from the regular reference in 15 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/utilizar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "vender": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "venir": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": true
+  },
+  "ver": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ver",
+    "evidence": "Stored paradigm differs from the regular reference in 73 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/ver",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "viajar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "visitar": {
+    "evidence": "Fase 3: AI-review plus offline vergelijking van alle aangeleverde vormen met regulier referentieparadigma; zie reports/phase-3/regularity.json. Geen onafhankelijke menselijke certificering.",
+    "isIrregularVerb": false
+  },
+  "vivir": {
+    "evidence": "Fase-1 review van lokale paradigmata; bekende volledige werkwoordclassificatie, geen afleiding uit alleen present.regular-*; zie DATA_MODEL.md",
+    "isIrregularVerb": false
+  },
+  "volar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/volar",
+    "evidence": "Stored paradigm differs from the regular reference in 14 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/volar",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "volver": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/volver",
+    "evidence": "Stored paradigm differs from the regular reference in 63 values, including any spelling/accent variants; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/volver",
+    "isIrregularVerb": true,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
+  },
+  "vomitar": {
+    "classificationRecord": "content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/vomitar",
+    "evidence": "All compared source values match the regular reference; whole-verb comparison, not present-only. content-workflow/five-tense-batches/frequency-top200/production-release-002/CLASSIFICATIONS.json#/records/vomitar",
+    "isIrregularVerb": false,
+    "reviewMethod": "ai_assisted_offline_paradigm_comparison"
   }
 }

@@ -2,528 +2,530 @@
   "coverage": {
     "imperative.affirmative.1p": {
       "missing_source": 5,
-      "valid": 633
+      "valid": 673
     },
     "imperative.affirmative.2p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "imperative.affirmative.2s": {
       "missing_source": 3,
       "unverified": 2,
-      "valid": 633
+      "valid": 673
     },
     "imperative.affirmative.3p_formal": {
       "missing_source": 1,
       "unverified": 4,
-      "valid": 633
+      "valid": 673
     },
     "imperative.affirmative.3s_formal": {
       "missing_source": 1,
       "unverified": 4,
-      "valid": 633
+      "valid": 673
     },
     "imperative.negative.1p": {
-      "missing_source": 5,
+      "missing_source": 45,
       "valid": 633
     },
     "imperative.negative.2p": {
-      "missing_source": 2,
+      "missing_source": 42,
       "unverified": 3,
       "valid": 633
     },
     "imperative.negative.2s": {
-      "missing_source": 3,
+      "missing_source": 43,
       "unverified": 2,
       "valid": 633
     },
     "imperative.negative.3p_formal": {
-      "missing_source": 1,
+      "missing_source": 41,
       "unverified": 4,
       "valid": 633
     },
     "imperative.negative.3s_formal": {
-      "missing_source": 1,
+      "missing_source": 41,
       "unverified": 4,
       "valid": 633
     },
     "indicative.conditional.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.conditional_perfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.future_perfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.imperfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.pluperfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.present_perfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "indicative.preterite_anterior.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "nonfinite.compound_gerund.value": {
-      "missing_source": 638
+      "missing_source": 638,
+      "valid": 40
     },
     "nonfinite.compound_infinitive.value": {
-      "missing_source": 638
+      "missing_source": 638,
+      "valid": 40
     },
     "nonfinite.gerund.value": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "nonfinite.infinitive.value": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "nonfinite.participle.value": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.future_perfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.1p": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.1s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.2p": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.2s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.3p": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.imperfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.pluperfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.1p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.1s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.2p": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.2s": {
       "missing_source": 4,
       "unverified": 1,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.3p": {
       "missing_source": 2,
       "unverified": 3,
-      "valid": 633
+      "valid": 673
     },
     "subjunctive.present_perfect.3s": {
       "unverified": 5,
-      "valid": 633
+      "valid": 673
     }
   },
   "excludedRecords": [],
@@ -51064,9 +51066,1929 @@
       "status": "missing_source",
       "variant": "main",
       "verbId": "zambullirse"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "destacar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "existir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "existir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "existir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "existir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "existir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "existir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "considerar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "partir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "partir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "partir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "partir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "partir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "partir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "disponer"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "asegurar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "mejorar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "cambiar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "relacionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "determinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "afectar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "representar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "representar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "representar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "representar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "representar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "representar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "pretender"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "analizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "basar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "basar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "basar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "basar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "basar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "basar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "generar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "generar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "generar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "generar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "generar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "generar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "facilitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "superar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "superar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "superar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "superar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "superar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "superar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "ocupar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "aportar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "adecuar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "elaborar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "privar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "privar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "privar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "privar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "privar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "privar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "plantear"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "referir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "referir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "referir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "referir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "referir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "referir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "proporcionar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "definir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "definir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "definir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "definir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "definir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "definir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "comentar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "adquirir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "observar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "observar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "observar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "observar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "observar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "observar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "elevar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "acceder"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "destinar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "incorporar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "integrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "solicitar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "garantizar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "aprovechar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "centrar"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2s",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acudir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3s_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acudir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "1p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acudir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "2p",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acudir"
+    },
+    {
+      "formId": "imperative.negative",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "3p_formal",
+      "status": "missing_source",
+      "variant": "main",
+      "verbId": "acudir"
+    },
+    {
+      "formId": "nonfinite.participle",
+      "reason": "Not supplied as a verified answer by the captured Spanish table",
+      "slotId": "value",
+      "status": "missing_source",
+      "variant": "alternative",
+      "verbId": "acudir"
     }
   ],
-  "importedRecords": 638,
+  "importedRecords": 678,
   "metadata": {
     "schemaVersion": 1,
     "scope": "full",
@@ -51078,16 +53000,23 @@
       "source": "https://spanishruleslibrary.com",
       "verb_count": 638
     },
-    "sourceSha256": "4d91637c742b47d221310b4025f7a6c505b2ce13c9443e63ea9d83504d95be5f"
+    "sourceSha256": "4d91637c742b47d221310b4025f7a6c505b2ce13c9443e63ea9d83504d95be5f",
+    "supplementary": {
+      "extractedFile": "source-data/wiktionary-es-common/EXTRACTED.json",
+      "records": 40,
+      "sha256": "3aa89c0ca91b1a16c82b5f6fea91023161109ef2fd776af04ee2b8fd37e53af1",
+      "source": "Spanish Wiktionary"
+    }
   },
   "notSelectedForTest": [],
+  "primarySourceRecords": 638,
   "productionContexts": null,
   "productionItems": null,
   "reflexive": 71,
   "regularity": {
-    "False": 61,
-    "None": 567,
-    "True": 10
+    "False": 164,
+    "None": 393,
+    "True": 121
   },
   "selected": [
     "abandonar",
@@ -51100,6 +53029,7 @@
     "abusar",
     "acabar",
     "acampar",
+    "acceder",
     "aceptar",
     "acercar",
     "acercarse",
@@ -51114,12 +53044,16 @@
     "acostumbrar",
     "acostumbrarse",
     "actuar",
+    "acudir",
+    "adecuar",
     "adivinar",
     "admirar",
     "admitir",
     "adorar",
     "adornar",
+    "adquirir",
     "advertir",
+    "afectar",
     "afeitar",
     "afeitarse",
     "afirmar",
@@ -51140,6 +53074,7 @@
     "amanecer",
     "amar",
     "amenazar",
+    "analizar",
     "andar",
     "anhelar",
     "anunciar",
@@ -51147,15 +53082,18 @@
     "aparecer",
     "aplaudir",
     "aplicar",
+    "aportar",
     "apostar",
     "apoyar",
     "apreciar",
     "aprender",
     "apretar",
     "aprobar",
+    "aprovechar",
     "arreglar",
     "arrepentirse",
     "arrojar",
+    "asegurar",
     "asistir",
     "asociar",
     "aspirar",
@@ -51175,6 +53113,7 @@
     "bailar",
     "bajar",
     "barrer",
+    "basar",
     "batir",
     "bautizar",
     "bañar",
@@ -51200,6 +53139,7 @@
     "callarse",
     "calmar",
     "calmarse",
+    "cambiar",
     "caminar",
     "cancelar",
     "cansar",
@@ -51214,6 +53154,7 @@
     "celebrar",
     "cenar",
     "censurar",
+    "centrar",
     "cepillar",
     "cerrar",
     "cesar",
@@ -51230,6 +53171,7 @@
     "colocar",
     "colonizar",
     "combatir",
+    "comentar",
     "comenzar",
     "comer",
     "compartir",
@@ -51251,6 +53193,7 @@
     "conseguir",
     "consentir",
     "conservar",
+    "considerar",
     "consistir",
     "constituir",
     "construir",
@@ -51297,6 +53240,7 @@
     "dedicar",
     "dedicarse",
     "defender",
+    "definir",
     "dejar",
     "demostrar",
     "depender",
@@ -51318,9 +53262,12 @@
     "despedir",
     "despertar",
     "despertarse",
+    "destacar",
+    "destinar",
     "destruir",
     "detener",
     "detenerse",
+    "determinar",
     "detestar",
     "devolver",
     "devorar",
@@ -51330,6 +53277,7 @@
     "disfrutar",
     "disgustar",
     "disminuir",
+    "disponer",
     "distinguir",
     "distribuir",
     "divertir",
@@ -51349,7 +53297,9 @@
     "educar",
     "efectuar",
     "ejercer",
+    "elaborar",
     "elegir",
+    "elevar",
     "eliminar",
     "emborrachar",
     "emborracharse",
@@ -51403,6 +53353,7 @@
     "evitar",
     "exhibir",
     "exigir",
+    "existir",
     "explicar",
     "explorar",
     "explotar",
@@ -51412,6 +53363,7 @@
     "extender",
     "extinguir",
     "fabricar",
+    "facilitar",
     "faltar",
     "fascinar",
     "felicitar",
@@ -51425,8 +53377,10 @@
     "fumar",
     "funcionar",
     "ganar",
+    "garantizar",
     "gastar",
     "generalizar",
+    "generar",
     "glorificar",
     "gobernar",
     "graduar",
@@ -51450,6 +53404,7 @@
     "importar",
     "imprimir",
     "incluir",
+    "incorporar",
     "indicar",
     "inducir",
     "influir",
@@ -51459,6 +53414,7 @@
     "insistir",
     "instalar",
     "insultar",
+    "integrar",
     "intentar",
     "interesar",
     "interpretar",
@@ -51508,6 +53464,7 @@
     "matricular",
     "matricularse",
     "medir",
+    "mejorar",
     "mentir",
     "merecer",
     "merendar",
@@ -51534,7 +53491,9 @@
     "notar",
     "obedecer",
     "obligar",
+    "observar",
     "obtener",
+    "ocupar",
     "ocurrir",
     "odiar",
     "ofender",
@@ -51551,6 +53510,7 @@
     "parar",
     "parecer",
     "participar",
+    "partir",
     "pasar",
     "patinar",
     "pedir",
@@ -51571,6 +53531,7 @@
     "pintar",
     "planchar",
     "plantar",
+    "plantear",
     "platicar",
     "poder",
     "poner",
@@ -51585,12 +53546,15 @@
     "presentar",
     "presentir",
     "preservar",
+    "pretender",
     "prever",
+    "privar",
     "probar",
     "producir",
     "prohibir",
     "prometer",
     "proponer",
+    "proporcionar",
     "proseguir",
     "proteger",
     "protestar",
@@ -51614,6 +53578,7 @@
     "reconocer",
     "recordar",
     "reducir",
+    "referir",
     "regalar",
     "regar",
     "regatear",
@@ -51624,6 +53589,7 @@
     "regular",
     "rehusar",
     "reinar",
+    "relacionar",
     "renacer",
     "renovar",
     "renunciar",
@@ -51632,6 +53598,7 @@
     "repetir",
     "replicar",
     "reportar",
+    "representar",
     "requerir",
     "reservar",
     "resolver",
@@ -51671,6 +53638,7 @@
     "situar",
     "sobrevivir",
     "soler",
+    "solicitar",
     "sonar",
     "sonreír",
     "soportar",
@@ -51680,6 +53648,7 @@
     "suceder",
     "sufrir",
     "sugerir",
+    "superar",
     "suponer",
     "surgir",
     "suspirar",
@@ -51730,9 +53699,10 @@
     "zambullirse"
   ],
   "slotStatuses": {
-    "missing_source": 1570,
+    "missing_source": 1770,
     "unverified": 251,
-    "valid": 68997
+    "valid": 73237
   },
-  "sourceRecords": 638
+  "sourceRecords": 678,
+  "supplementarySourceRecords": 40
 }

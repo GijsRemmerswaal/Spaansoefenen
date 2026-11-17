@@ -1,3 +1,3 @@
 // Generated offline; do not edit.
 globalThis.SPANISH_TRAINER_DATA = globalThis.SPANISH_TRAINER_DATA || {};
-Object.assign(globalThis.SPANISH_TRAINER_DATA, {"constructions":[]});
+Object.assign(globalThis.SPANISH_TRAINER_DATA, {"constructions":[{"accepted":["estoy hablando"],"evidence":"Afzonderlijke AI-regelcontrole: lokale SRL estar/indicative.present/1s = estoy; hablar/nonfinite.gerund/value = hablando; lokaal boek hoofdstuk 13 \u00a7201 en hoofdstuk 14 \u00a7383: estar + gerundio voor lopende activiteit. Volledig antwoord expliciet opgeslagen, niet letterlijk als complete constructie in SRL aangetroffen; geen runtime-samenstelling. Inhoudelijke contextgoedkeuring blijft pending.","fixtureOnly":false,"formId":"construction.estar_gerund","id":"hablar:pilot_estar_gerund:1s","reason":"","reviewed":true,"slotId":"1s","status":"valid","verbId":"hablar"}]});
