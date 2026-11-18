@@ -77,6 +77,9 @@
       const blank = document.createElement('span'); blank.className = 'blank'; blank.textContent = '_____'; blank.setAttribute('aria-label', 'vul de werkwoordvorm in');
       $('sentence').replaceChildren(document.createTextNode(before), blank, document.createTextNode(after));
       $('infinitive').textContent = data.verbs[state.item.verbId].infinitive;
+      const pronoun = persons[state.item.slotId];
+      $('pronoun').textContent = pronoun || '';
+      $('pronoun-line').hidden = !pronoun;
       $('feedback').textContent = state.feedback?.message || '';
       $('feedback').dataset.status = state.feedback?.status || '';
       input.setAttribute('aria-invalid', String(!!state.feedback && state.feedback.status !== 'correct'));
