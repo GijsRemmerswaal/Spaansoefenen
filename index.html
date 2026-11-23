@@ -28,12 +28,38 @@
         <fieldset><legend>Welke tijden wil je oefenen?</legend><p class="field-note">Kies één of meer tijden.</p><div id="main-forms" class="time-grid"></div></fieldset>
         <details id="extra-forms"><summary>Meer oefenvormen</summary><div id="extra-groups"></div><p class="field-note">Vormen zonder gecontroleerde oefeningen zijn nog niet beschikbaar.</p></details>
         <fieldset class="categories"><legend>Welke werkwoorden?</legend><div class="category-grid"><label class="check-card"><input type="checkbox" name="category" value="regular" checked><span>Regelmatig</span></label><label class="check-card"><input type="checkbox" name="category" value="irregular" checked><span>Onregelmatig</span></label></div></fieldset>
+        <fieldset class="verb-endings">
+          <legend>Werkwoorduitgangen</legend>
+          <div class="ending-options">
+            <label class="check-card"><input type="checkbox" name="ending" value="ar" checked><span>-ar</span></label>
+            <label class="check-card"><input type="checkbox" name="ending" value="er" checked><span>-er</span></label>
+            <label class="check-card"><input type="checkbox" name="ending" value="ir" checked><span>-ir</span></label>
+          </div>
+        </fieldset>
+        <label class="check-card specific-toggle"><input id="specific-verbs" type="checkbox" aria-controls="verb-picker"><span>Specifieke werkwoorden selecteren</span></label>
+        <div id="verb-picker" hidden>
+          <label for="verb-search">Zoek een werkwoord...</label>
+          <input id="verb-search" type="search" autocomplete="off" spellcheck="false" aria-controls="verb-list">
+          <div class="verb-actions">
+            <button type="button" class="secondary" id="select-verbs">Alles selecteren</button>
+            <button type="button" class="secondary" id="deselect-verbs">Alles deselecteren</button>
+            <span id="verb-count" class="field-note" role="status"></span>
+          </div>
+          <div id="verb-list" role="group" aria-label="Beschikbare werkwoorden"></div>
+          <p id="verb-list-message" class="field-note" role="status"></p>
+        </div>
         <div class="start-actions"><p id="selection-message" role="status" aria-live="polite">De oefengegevens worden geladen…</p><button id="start-button" class="primary" type="submit" disabled>Start oefenen <span aria-hidden="true">→</span></button></div>
       </form>
       <p class="quiet-note">Geen score. Geen haast. Gewoon oefenen.</p>
     </section>
     <section id="exercise-screen" aria-labelledby="exercise-title" hidden>
-      <div class="exercise-top"><button id="back-button" class="text-button" type="button">← Andere selectie</button><span class="pill">Oefenen</span></div>
+      <div class="exercise-top">
+        <button id="back-button" class="text-button" type="button">← Andere selectie</button>
+        <div class="exercise-badges">
+          <span class="pill">Oefeningen gemaakt: <span id="completed-count">0</span></span>
+          <span id="exercise-mode" class="pill">Oefenen</span>
+        </div>
+      </div>
       <div class="card exercise-card">
         <div class="exercise-heading"><div><p class="eyebrow">Vul de volledige werkwoordvorm in</p><h1 id="exercise-title" lang="es"></h1><p id="exercise-title-nl" class="term-nl" lang="nl"></p></div><button id="grammar-button" class="info-button" type="button" aria-label="Uitleg over deze tijd of vorm" title="Uitleg over deze tijd of vorm" aria-haspopup="dialog" aria-controls="grammar-dialog">i</button></div>
         <p id="sentence" class="sentence" lang="es"></p>

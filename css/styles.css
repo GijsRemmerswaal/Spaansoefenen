@@ -13,3 +13,18 @@
 .grammar-content{margin-top:20px}.grammar-content p+p{margin-top:14px}.grammar-source{font-size:.76rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;margin-top:22px}
 #grammar-title{overflow-wrap:anywhere}#grammar-dialog .dialog-heading button{flex-shrink:0}
 @media(max-width:400px){#grammar-dialog .dialog-heading{flex-direction:column;gap:12px}#grammar-dialog .dialog-heading button{align-self:flex-end}}
+.verb-endings,.specific-toggle{margin-top:20px}
+.exercise-top{flex-wrap:wrap;gap:4px 12px}
+.exercise-badges{display:flex;align-items:center;gap:6px;margin-inline-start:auto}
+.ending-options,.verb-actions{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.ending-options{margin-top:8px}
+.ending-options .check-card,.specific-toggle{min-height:44px;padding:9px 12px;gap:8px}
+.specific-toggle{width:fit-content;max-width:100%}
+#verb-picker{margin-top:14px}
+#verb-picker>label{display:block;margin-bottom:6px;font-size:.9rem;font-weight:600}
+#verb-search{width:100%;min-height:44px;padding:9px 12px;border:1px solid #9cae9f;border-radius:9px;color:var(--ink);background:white}
+.verb-actions{margin:10px 0}
+.verb-actions button{min-height:44px;padding:8px 12px;font-size:.85rem}
+#verb-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,150px),1fr));align-content:start;max-height:15rem;overflow-y:auto;gap:4px;padding:6px;border:1px solid var(--line);border-radius:10px}
+#verb-list:empty{display:none}
+#verb-list .check-card{min-height:44px;padding:7px 10px;gap:9px;font-size:.88rem}

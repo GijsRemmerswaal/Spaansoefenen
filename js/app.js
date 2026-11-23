@@ -24,7 +24,7 @@
     if (usingDemo) {
       document.querySelector('.demo-tag').textContent = 'Testversie';
       document.querySelector('.demo-notice p').textContent = 'Je oefent met een kleine, gecontroleerde testset. De volledige oefeninhoud staat op de hoofdpagina.';
-      document.querySelector('.pill').textContent = 'Testoefening';
+      $('exercise-mode').textContent = 'Testoefening';
     }
     let session = null, selection = {start: 0, end: 0};
     const input = $('answer'), dialog = $('help-dialog');
@@ -50,29 +50,73 @@
       if (!ids.length) { const p = document.createElement('p'); p.className = 'field-note'; p.textContent = 'Nog geen oefeningen.'; section.append(p); }
       $('extra-groups').append(section);
     }
-    function options() {
-      return {includeFixtures: usingDemo,
-        formIds: [...checkboxes].filter(([,c]) => c.checked && !c.disabled).map(([id]) => id),
-        categories: [...document.querySelectorAll('input[name="category"]:checked')].map(c => c.value)};
+    const specificVerbs = $('specific-verbs'), verbList = $('verb-list'), search = $('verb-search');
+    const selectedVerbs = new Set();
+    let eligibleVerbs = [];
+    const spanishOrder = new Intl.Collator('es');
+    const searchKey = value => value.trim().toLowerCase().normalize('NFD').replace(/\u0301/gu, '');
+    function groupOptions() {
+      return {
+        includeFixtures: usingDemo,
+        categories: [...document.querySelectorAll('input[name="category"]:checked')].map(c => c.value),
+        conjugationGroups: [...document.querySelectorAll('input[name="ending"]:checked')].map(c => c.value)
+      };
+    }
+    function formOptions() {
+      return { ...groupOptions(), formIds: [...checkboxes].filter(([,c]) => c.checked && !c.disabled).map(([id]) => id) };
+    }
+    function activeVerbs() {
+      return eligibleVerbs.filter(id => selectedVerbs.has(id));
+    }
+    function updateStart() {
+      const count = specificVerbs.checked ? activeVerbs().length : eligibleVerbs.length;
+      if (specificVerbs.checked) $('verb-count').textContent = count + (count === 1 ? ' werkwoord geselecteerd' : ' werkwoorden geselecteerd');
+      $('start-button').disabled = count === 0;
+      $('selection-message').textContent = count ? 'Je kunt beginnen. Neem de tijd voor elke zin.' : 'Geen oefeningen beschikbaar voor deze selectie.';
+    }
+    function renderVerbList() {
+      const query = searchKey(search.value);
+      const shown = eligibleVerbs.filter(id => searchKey(data.verbs[id].infinitive).includes(query));
+      const rows = document.createDocumentFragment();
+      for (const id of shown) {
+        const label = document.createElement('label'); label.className = 'check-card';
+        const check = document.createElement('input'); check.type = 'checkbox'; check.name = 'verb'; check.value = id; check.checked = selectedVerbs.has(id);
+        const name = document.createElement('span'); name.lang = 'es'; name.textContent = data.verbs[id].infinitive;
+        label.append(check, name); rows.append(label);
+      }
+      verbList.replaceChildren(rows);
+      verbList.scrollTop = 0;
+      $('select-verbs').disabled = $('deselect-verbs').disabled = shown.length === 0;
+      $('verb-list-message').textContent = !eligibleVerbs.length ? 'Geen werkwoorden beschikbaar voor deze filters.' :
+        !shown.length ? 'Geen werkwoorden gevonden.' : query ? 'Alles selecteren en deselecteren geldt voor de zoekresultaten.' : '';
+    }
+    function setVerb(id, checked) {
+      if (checked) selectedVerbs.add(id);
+      else selectedVerbs.delete(id);
+    }
+    function selectShown(checked) {
+      for (const box of verbList.querySelectorAll('input')) {
+        box.checked = checked;
+        setVerb(box.value, checked);
+      }
+      updateStart();
     }
     function updateSelection() {
-      const opts = options();
-      const availability = engine.availability({includeFixtures: usingDemo, categories: opts.categories});
+      const availability = engine.availability(groupOptions());
       for (const {formId, selectable} of availability) if (checkboxes.has(formId)) {
         const c = checkboxes.get(formId); c.disabled = !selectable;
         c.parentElement.title = selectable ? '' : 'Geen oefeningen bij deze werkwoordselectie.';
       }
-      const available = engine.select(options()).length > 0;
-      $('start-button').disabled = !available;
-      $('selection-message').textContent = available ? 'Je kunt beginnen. Neem de tijd voor elke zin.' :
-        opts.categories.length === 1 && opts.categories[0] === 'irregular' && !availability.some(x => x.selectable) ?
-          'Voor onregelmatige werkwoorden zijn nog geen gecontroleerde oefeningen beschikbaar.' :
-          'Kies minstens één beschikbare vorm en een werkwoordcategorie.';
+      eligibleVerbs = engine.availableVerbIds(formOptions()).sort(spanishOrder.compare);
+      $('verb-picker').hidden = !specificVerbs.checked;
+      if (specificVerbs.checked) renderVerbList();
+      updateStart();
     }
     function render(state, fresh = false) {
       if (state.status !== 'active') throw new Error(state.message);
       $('exercise-title').textContent = forms[state.item.formId].labelEs;
       $('exercise-title-nl').textContent = forms[state.item.formId].labelNl || '';
+      $('completed-count').textContent = state.completedCount;
       const [before, after] = state.item.spanishTemplate.split('{{answer}}');
       const blank = document.createElement('span'); blank.className = 'blank'; blank.textContent = '_____'; blank.setAttribute('aria-label', 'vul de werkwoordvorm in');
       $('sentence').replaceChildren(document.createTextNode(before), blank, document.createTextNode(after));
@@ -88,14 +132,28 @@
       $('cycle-message').textContent = state.message;
       if (fresh) { input.value = ''; selection = {start:0,end:0}; input.focus(); }
     }
-    $('selection-form').addEventListener('change', updateSelection);
+    $('selection-form').addEventListener('change', event => {
+      const control = event.target;
+      if (control.name === 'verb') {
+        setVerb(control.value, control.checked);
+        updateStart();
+      } else if (control.type === 'checkbox') updateSelection();
+    });
+    search.addEventListener('input', renderVerbList);
+    search.addEventListener('keydown', event => { if (event.key === 'Enter') event.preventDefault(); });
+    $('select-verbs').addEventListener('click', () => selectShown(true));
+    $('deselect-verbs').addEventListener('click', () => selectShown(false));
     $('selection-form').addEventListener('submit', event => {
       event.preventDefault();
       if ($('start-button').disabled) return;
       try {
-        session = engine.createSession(options());
+        const opts = formOptions();
+        if (specificVerbs.checked) opts.verbIds = activeVerbs();
+        session = engine.createSession(opts);
+        const state = session.state();
+        if (state.status === 'empty') { session = null; updateSelection(); return; }
         $('start-screen').hidden = true; $('exercise-screen').hidden = false;
-        render(session.state(), true);
+        render(state, true);
       } catch (error) { fatal(error); }
     });
     $('answer-form').addEventListener('submit', event => {

@@ -5,6 +5,7 @@
   const copy = value => JSON.parse(JSON.stringify(value));
   const normalize = value => value.normalize('NFC').trim().replace(/\s+/gu, ' ').toLowerCase();
   const acute = value => value.replace(/[áéíóú]/gu, c => ({á:'a', é:'e', í:'i', ó:'o', ú:'u'})[c]);
+  const endings = ['ar', 'er', 'ir'];
   const feedback = {
     correct: 'Goed!',
     accent_only: 'Bijna goed: controleer je accenttekens.',
@@ -41,6 +42,11 @@
     require(byId.size === items.length, 'Dubbele oefening-ID.');
     const contextById = new Map(groups.flatMap(g => g.contexts.map(c => [c.id, c])));
     const kinds = ['finite', 'imperative', 'nonfinite', 'construction'];
+    const endingByVerb = new Map();
+    for (const {verbId} of groups) {
+      const infinitive = acute(normalize(data.verbs[verbId].infinitive));
+      endingByVerb.set(verbId, infinitive.replace(/se$/u, '').slice(-2));
+    }
     function itemFor(id) {
       require(typeof id === 'string' && byId.has(id), 'Onbekende oefening.');
       return byId.get(id);
@@ -55,21 +61,35 @@
       const entry = variant === undefined ? slot : slot.variants[variant];
       return copy({status: entry.status, accepted: entry.accepted, reason: entry.reason});
     }
-    function select(options = {}) {
+    function matchingItems(options = {}) {
       require(options && typeof options === 'object' && !Array.isArray(options), 'Ongeldige selectie.');
-      require(Object.keys(options).every(k => ['formIds', 'categories', 'exerciseKinds', 'includeFixtures'].includes(k)), 'Onbekend selectiefilter.');
-      const {formIds = Object.keys(registry), categories = ['regular', 'irregular'], exerciseKinds = kinds, includeFixtures = false} = options;
-      for (const [chosen, allowed] of [[formIds, Object.keys(registry)], [categories, ['regular', 'irregular']], [exerciseKinds, kinds]]) {
+      require(Object.keys(options).every(k => ['formIds', 'categories', 'exerciseKinds', 'includeFixtures', 'conjugationGroups', 'verbIds'].includes(k)), 'Onbekend selectiefilter.');
+      const {formIds = Object.keys(registry), categories = ['regular', 'irregular'], exerciseKinds = kinds,
+        includeFixtures = false, conjugationGroups = endings, verbIds} = options;
+      for (const [chosen, allowed] of [[formIds, Object.keys(registry)], [categories, ['regular', 'irregular']], [exerciseKinds, kinds], [conjugationGroups, endings]]) {
         require(Array.isArray(chosen) && new Set(chosen).size === chosen.length && chosen.every(x => allowed.includes(x)), 'Onbekende of dubbele filterwaarde.');
       }
       require(typeof includeFixtures === 'boolean', 'Fixturekeuze moet boolean zijn.');
-      return copy(V.available(items, data.verbs, {categories, includeFixtures})
-        .filter(i => formIds.includes(i.formId) && exerciseKinds.includes(i.exerciseKind)));
+      let chosenVerbs;
+      if (verbIds !== undefined) {
+        require(Array.isArray(verbIds) && verbIds.every(id => typeof id === 'string' && Object.hasOwn(data.verbs, id)), 'Onbekend werkwoordfilter.');
+        chosenVerbs = new Set(verbIds);
+        require(chosenVerbs.size === verbIds.length, 'Dubbel werkwoordfilter.');
+      }
+      return V.available(items, data.verbs, {categories, includeFixtures})
+        .filter(i => formIds.includes(i.formId) && exerciseKinds.includes(i.exerciseKind) &&
+          conjugationGroups.includes(endingByVerb.get(i.verbId)) && (!chosenVerbs || chosenVerbs.has(i.verbId)));
+    }
+    function select(options) {
+      return copy(matchingItems(options));
+    }
+    function availableVerbIds(options) {
+      return [...new Set(matchingItems(options).map(i => i.verbId))];
     }
     function availability(options = {}) {
-      const selected = select(options);
+      const availableForms = new Set(matchingItems(options).map(i => i.formId));
       return Object.values(registry).map(f => ({formId: f.formId, exerciseKind: f.exerciseKind,
-        configured: f.exerciseEnabled, selectable: selected.some(i => i.formId === f.formId)}));
+        configured: f.exerciseEnabled, selectable: availableForms.has(f.formId)}));
     }
     function resolveExerciseAnswer(id) { return [...itemFor(id).acceptedAnswers]; }
     function resolveExerciseHelp(id) {
@@ -97,7 +117,13 @@
     function createSession(options = {}, random = Math.random) {
       require(typeof random === 'function', 'Ongeldige toevalsbron.');
       const pool = select(options);
-      let queue = [], current = null, unlocked = false, revealed = false, result = null, cycleRestarted = false;
+      let queue = [], current = null, currentCompleted = false, revealed = false, result = null, cycleRestarted = false;
+      let completedCount = 0;
+      function completeCurrent() {
+        if (currentCompleted) return;
+        currentCompleted = true;
+        completedCount++;
+      }
       function advance() {
         const previous = current?.id;
         cycleRestarted = queue.length === 0 && current !== null;
@@ -109,12 +135,12 @@
           }
         }
         current = queue.shift() ?? null;
-        unlocked = false; revealed = false; result = null;
+        currentCompleted = false; revealed = false; result = null;
       }
       function state() {
-        if (!current) return {status: 'empty', canNext: false, message: 'Geen oefeningen beschikbaar voor deze selectie.', cycleRestarted: false};
+        if (!current) return {status: 'empty', completedCount, canNext: false, message: 'Geen oefeningen beschikbaar voor deze selectie.', cycleRestarted: false};
         const {acceptedAnswers, translationNl, ...prompt} = current;
-        const view = {status: 'active', item: prompt, canNext: unlocked, feedback: result,
+        const view = {status: 'active', item: prompt, completedCount, canNext: currentCompleted, feedback: result,
           cycleRestarted, message: cycleRestarted ? 'Nieuwe willekeurige oefenronde gestart.' : ''};
         if (revealed) view.revealed = {acceptedAnswers, translationNl};
         return copy(view);
@@ -122,17 +148,18 @@
       function check(input) {
         require(current, 'Geen actieve oefening.');
         result = compareAnswer(input, current.acceptedAnswers);
-        if (result.status === 'correct') unlocked = true;
+        if (result.status === 'correct') completeCurrent();
         return state();
       }
       function showAnswer() {
         require(current, 'Geen actieve oefening.');
-        revealed = true; unlocked = true;
+        revealed = true;
+        completeCurrent();
         return state();
       }
       function next() {
         if (!current) return state();
-        if (!unlocked) return {...state(), navigationBlocked: true};
+        if (!currentCompleted) return {...state(), navigationBlocked: true};
         advance();
         return state();
       }
@@ -143,7 +170,7 @@
       advance();
       return Object.freeze({state, check, showAnswer, next, help});
     }
-    return Object.freeze({select, availability, lookupVerbForm, resolveExerciseAnswer, resolveExerciseHelp, createSession});
+    return Object.freeze({select, availability, availableVerbIds, lookupVerbForm, resolveExerciseAnswer, resolveExerciseHelp, createSession});
   }
   global.SpanishTrainerExercises = Object.freeze({createEngine, compareAnswer});
 })(globalThis);
