@@ -63,7 +63,13 @@
       <div class="card exercise-card">
         <div class="exercise-heading"><div><p class="eyebrow">Vul de volledige werkwoordvorm in</p><h1 id="exercise-title" lang="es"></h1><p id="exercise-title-nl" class="term-nl" lang="nl"></p></div><button id="grammar-button" class="info-button" type="button" aria-label="Uitleg over deze tijd of vorm" title="Uitleg over deze tijd of vorm" aria-haspopup="dialog" aria-controls="grammar-dialog">i</button></div>
         <p id="sentence" class="sentence" lang="es"></p>
-        <div class="verb-tools"><p class="infinitive-line">Werkwoord <strong id="infinitive" lang="es"></strong></p><button id="info-button" class="text-button" type="button" aria-label="Vervoegingstabel openen" aria-haspopup="dialog" aria-controls="help-dialog">Vervoegingstabel</button></div>
+        <div class="verb-tools">
+          <div style="display: flex; flex-direction: column; gap: 12px;">
+            <p class="infinitive-line">Werkwoord <strong id="infinitive" lang="es"></strong></p>
+            <p id="pronoun-line" class="infinitive-line" hidden>Voornaamwoord: <strong id="pronoun" lang="es"></strong></p>
+          </div>
+          <button id="info-button" class="text-button" type="button" aria-label="Vervoegingstabel openen" aria-haspopup="dialog" aria-controls="help-dialog">Vervoegingstabel</button>
+        </div>
         <form id="answer-form" novalidate>
           <label for="answer">Jouw antwoord</label>
           <input id="answer" name="answer" type="text" lang="es" autocomplete="off" autocapitalize="none" spellcheck="false" aria-describedby="answer-hint feedback">
